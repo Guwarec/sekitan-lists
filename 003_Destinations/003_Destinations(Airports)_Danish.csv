@@ -1,0 +1,4927 @@
+Words;Link;Score
+Paris;Frankrig;1000
+London;Storbritannien;974
+New York;USA;971
+Dubai;De Forenede Arabiske Emirater;961
+Tokyo;Japan;955
+Los Angeles;USA;948
+Singapore;Singapore;942
+Hong Kong;Hongkong;935
+Amsterdam;Holland;933
+Miami;USA;922
+Istanbul;Tyrkiet;922
+Chicago;USA;920
+San Francisco;USA;920
+Houston;USA;916
+Washington;USA;916
+Madrid;Spanien;916
+Barcelona;Spanien;913
+Dallas;USA;912
+Atlanta;USA;909
+Rome;Italien;909
+München;Tyskland;903
+Denver;USA;903
+Seattle;USA;899
+Boston;USA;896
+Orlando;USA;896
+Zurich;Schweiz;896
+Philadelphia;USA;894
+Wien;Østrig;894
+København;Danmark;890
+Las Vegas;USA;886
+Stockholm;Sverige;883
+Genève;Schweiz;883
+Athen;Grækenland;873
+Lissabon;Portugal;870
+Dublin;Irland;868
+Warszawa;Polen;864
+Prag;Tjekkiet;860
+Nice;Frankrig;857
+Budapest;Ungarn;857
+Berlin;Tyskland;851
+Milano;Italien;851
+Bukarest;Rumænien;851
+Kairo;Egypten;844
+Hamburg;Tyskland;842
+Bangkok;Thailand;842
+Napoli;Italien;838
+Palma de Mallorca;Spanien;838
+Lyon;Frankrig;838
+Venedig;Italien;835
+Edinburgh;Storbritannien;831
+Firenze;Italien;831
+Ibiza;Spanien;831
+Marseille;Frankrig;831
+Antalya;Tyrkiet;831
+Jakarta;Indonesien;831
+Mumbai;Indien;829
+Las Palmas;Spanien;825
+Toulouse;Frankrig;825
+Torino;Italien;825
+Beijing;Kina;821
+Manchester;USA;818
+Bordeaux;Frankrig;818
+Thessaloniki;Grækenland;818
+Sydney;Australien;816
+Heraklion;Grækenland;816
+Innsbruck;Østrig;816
+Salzburg;Østrig;813
+Melbourne;Australien;812
+Nantes;Frankrig;812
+Rhodes;Grækenland;812
+Ankara;Tyrkiet;812
+Toronto;Canada;808
+Sevilla;Spanien;808
+Birmingham;USA;805
+Lille;Frankrig;805
+Korfu;Grækenland;805
+Sankt Petersborg;Rusland;805
+Vancouver;Canada;803
+Santorini;Grækenland;803
+Strasbourg;Frankrig;799
+Mexico City;Mexico;799
+São Paulo;Brasilien;795
+Pisa (PI);Italien;792
+Buenos Aires;Argentina;792
+Lima;Peru;786
+Phuket;Thailand;786
+Kyiv;Ukraine;779
+Santiago;Chile;777
+Casablanca;Marokko;773
+Johannesburg;Sydafrika;769
+Genova;Italien;769
+Nairobi;Kenya;766
+Kos;Grækenland;766
+Chiang Mai;Thailand;766
+Lagos;Nigeria;760
+Nagoya;Japan;760
+Fukuoka;Japan;756
+Accra;Ghana;753
+Sapporo;Japan;753
+Busan;Sydkorea;753
+Addis Ababa;Etiopien;751
+Chennai;Indien;751
+Kolkata;Indien;748
+Doha;Qatar;747
+Hyderabad;Pakistan;746
+Abu Dhabi;De Forenede Arabiske Emirater;744
+Cancún;Mexico;741
+Riyadh;Saudi-Arabien;741
+Kuwait City;Kuwait;734
+Zanzibar;Tanzania;721
+Karachi;Pakistan;721
+Mombasa;Kenya;715
+Jeddah;Saudi-Arabien;708
+Colombo;Sri Lanka;708
+Kathmandu;Nepal;702
+Manama;Bahrain;699
+Dhaka;Bangladesh;695
+Ho Chi Minh City;Vietnam;695
+Yangon;Myanmar;689
+Seoul;Sydkorea;678
+Osaka;Japan;676
+Shenzhen;Kina;665
+Auckland;New Zealand;656
+Kapstaden;Sydafrika;647
+Tunis;Tunesien;639
+Algier;Algeriet;637
+Beirut;Libanon;626
+Papeete;Fransk Polynesien;624
+Amman;Jordan;624
+Tel Aviv;Israel;621
+Tehran;Iran;617
+Baku;Aserbajdsjan;611
+Almaty;Kasakhstan;600
+Tashkent;Usbekistan;598
+Honiara;Salomonøerne;546
+Lae;Papua Ny Guinea;546
+Port Moresby;Papua Ny Guinea;546
+BNK;Bangladesh;546
+Nuuk;Grønland;546
+Akureyri;Island;546
+Reykjavík;Island;546
+Parakou;Benin;546
+Prishtina;Kosovo;546
+Belize City;Belize;546
+Hangzhou;Kina;546
+Edmonton;Canada;546
+Kingston;Jamaica;546
+Hamilton;Bermuda;546
+Montréal;Canada;546
+Halifax;Canada;546
+Kelowna;Canada;546
+Ottawa;Canada;546
+Quebec;Canada;546
+Winnipeg;Canada;546
+Saskatoon;Canada;546
+Calgary;Canada;546
+Victoria;Seychellerne;546
+St. John's;Canada;546
+Faro;Portugal;546
+Béjaïa;Algeriet;546
+Djanet;Algeriet;546
+Tamanrasset;Algeriet;546
+Tahir;Algeriet;546
+Annaba;Algeriet;546
+Constantine;Algeriet;546
+Batna;Algeriet;546
+Chlef;Algeriet;546
+Zenata;Algeriet;546
+Es-Sénia;Algeriet;546
+Biskra;Algeriet;546
+Cotonou;Benin;546
+Ouagadougou;Burkina Faso;546
+Bobo Dioulasso;Burkina Faso;546
+Tamale;Ghana;546
+Kumasi;Ghana;546
+Abidjan;Elfenbenskysten;546
+Abuja;Nigeria;546
+Asaba;Nigeria;546
+Bauchi;Nigeria;546
+Enegu;Nigeria;546
+Ilorin/Ogbomosho;Nigeria;546
+Kaduna;Nigeria;546
+Kano;Nigeria;546
+Maiduguri;Nigeria;546
+Port Harcourt;Nigeria;546
+Sokoto;Nigeria;546
+Niamey;Niger;546
+Mellita;Tunesien;546
+Lomé;Togo;546
+Zaventem;Belgien;546
+Charleroi;Belgien;546
+Oostende;Belgien;546
+Dresden;Tyskland;546
+Erfurt;Tyskland;546
+Frankfurt am Main;Tyskland;546
+Greven;Tyskland;546
+Köln (Cologne);Tyskland;546
+Düsseldorf;Tyskland;546
+Nuremberg;Tyskland;546
+Schkeuditz;Tyskland;546
+Stuttgart;Tyskland;546
+Hannover;Tyskland;546
+Bremen;Tyskland;546
+Frankfurt am Main (Lautzenhausen);Tyskland;546
+Memmingen;Tyskland;546
+Büren;Tyskland;546
+Weeze;Tyskland;546
+Dortmund;Tyskland;546
+Friedrichshafen;Tyskland;546
+Rheinmünster;Tyskland;546
+Calden;Tyskland;546
+Tallinn;Estland;546
+Helsinki (Vantaa);Finland;546
+Ivalo;Finland;546
+Kittilä;Finland;546
+Kuopio / Siilinjärvi;Finland;546
+Lappeenranta;Finland;546
+Mariehamn;Finland;546
+Oulu / Oulunsalo;Finland;546
+Rovaniemi;Finland;546
+Tampere / Pirkkala;Finland;546
+Turku;Finland;546
+Vaasa;Finland;546
+Belfast;Storbritannien;546
+Birmingham, West Midlands;Storbritannien;546
+Manchester, Greater Manchester;Storbritannien;546
+Cardiff;Storbritannien;546
+Bristol;Storbritannien;546
+Liverpool;Storbritannien;546
+Luton, Luton;Storbritannien;546
+Leeds, West Yorkshire;Storbritannien;546
+Castletown;Isle of Man;546
+Newcastle upon Tyne, Tyne and Wear;Storbritannien;546
+Nottingham, Leicestershire;Storbritannien;546
+Aberdeen;Storbritannien;546
+Glasgow;Storbritannien;546
+Prestwick, South Ayrshire;Storbritannien;546
+London, Essex;Storbritannien;546
+Mount Pleasant;Falklandsøerne;546
+Maastricht;Holland;546
+Eindhoven;Holland;546
+Groningen;Holland;546
+Rotterdam;Holland;546
+Cork;Irland;546
+Charlestown;Irland;546
+Shannon;Irland;546
+Aarhus;Danmark;546
+Billund;Danmark;546
+Odense;Danmark;546
+Vágar;Færøerne;546
+Aalborg;Danmark;546
+Luxembourg;Luxembourg;546
+Ålesund;Norge;546
+Bodø;Norge;546
+Bergen;Norge;546
+Kristiansand(Kjevik);Norge;546
+Evenes;Norge;546
+Oslo (Gardermoen);Norge;546
+Tromsø;Norge;546
+Sandefjord(Torp);Norge;546
+Trondheim;Norge;546
+Stavanger;Norge;546
+Gdańsk;Polen;546
+Balice;Polen;546
+Katowice;Polen;546
+Lublin;Polen;546
+Łódź;Polen;546
+Nowy Dwór Mazowiecki;Polen;546
+Poznań;Polen;546
+Jasionka;Polen;546
+Szczecin(Glewice);Polen;546
+Wrocław;Polen;546
+Göteborg;Sverige;546
+Nyköping;Sverige;546
+Malung-Sälen;Sverige;546
+Malmö;Sverige;546
+Kiruna;Sverige;546
+Umeå;Sverige;546
+Stockholm / Västerås;Sverige;546
+Luleå;Sverige;546
+Linköping;Sverige;546
+Visby;Sverige;546
+Riga;Letland;546
+Kaunas;Litauen;546
+Palanga;Litauen;546
+Vilnius;Litauen;546
+Bloemfontein;Sydafrika;546
+East London;Sydafrika;546
+George;Sydafrika;546
+Kimberley;Sydafrika;546
+Mbombela;Sydafrika;546
+Durban;Sydafrika;546
+Gqeberha (Port Elizabeth);Sydafrika;546
+Polokwane;Sydafrika;546
+Queenstown;New Zealand;546
+Francistown;Botswana;546
+Kasane;Botswana;546
+Maun;Botswana;546
+Gaborone;Botswana;546
+Brazzaville;Congo;546
+Pointe Noire;Congo;546
+Mpaka;Eswatini;546
+Bangui;Den Centralafrikanske Republik;546
+Bata;Ækvatorialguinea;546
+Malabo;Ækvatorialguinea;546
+Plaine Magnien;Mauritius;546
+Douala;Cameroun;546
+Garoua;Cameroun;546
+Yaoundé;Cameroun;546
+Livingstone;Zambia;546
+Lusaka;Zambia;546
+Mfuwe;Zambia;546
+Ndola;Zambia;546
+Moroni;Comorerne;546
+Dzaoudzi;Mayotte;546
+Sainte-Marie;Réunion;546
+Saint-Pierre;Réunion;546
+Antananarivo;Madagaskar;546
+Toamasina;Madagaskar;546
+Mahajanga;Madagaskar;546
+Nosy Be;Madagaskar;546
+Luanda (Ícolo e Bengo);Angola;546
+Luanda;Angola;546
+Port Gentil;Gabon;546
+Libreville;Gabon;546
+Franceville;Gabon;546
+São Tomé;São Tomé og Príncipe;546
+Beira;Mozambique;546
+Maputo;Mozambique;546
+Nampula;Mozambique;546
+Tete;Mozambique;546
+N'Djamena;Tchad;546
+Bulawayo;Zimbabwe;546
+Victoria Falls;Zimbabwe;546
+Harare;Zimbabwe;546
+Blantyre;Malawi;546
+Lumbadzi;Malawi;546
+Maseru(Mazenod);Lesotho;546
+Walvis Bay(Rooikop);Namibia;546
+Windhoek;Namibia;546
+Kinshasa;DR Congo;546
+Kisangani;DR Congo;546
+Goma;DR Congo;546
+Lubumbashi;DR Congo;546
+Bamako;Mali;546
+Timbuktu;Mali;546
+Banjul (Yundum);Gambia;546
+El Matorral;Spanien;546
+San Bartolomé;Spanien;546
+Tenerife;Spanien;546
+Freetown (Lungi-Town);Sierra Leone;546
+Bissau;Guinea-Bissau;546
+Monrovia;Liberia;546
+Agadir (Temsia);Marokko;546
+Zagora;Marokko;546
+Saïss;Marokko;546
+Ahl Angad;Marokko;546
+Oulad Yaich;Marokko;546
+Rabat;Marokko;546
+Dakhla;Vestsahara;546
+El Aaiún;Vestsahara;546
+Al Aaroui;Marokko;546
+Marrakesh;Marokko;546
+Ouarzazate;Marokko;546
+Tétouan;Marokko;546
+Tangier;Marokko;546
+Dakar;Senegal;546
+Nouakchott;Mauretanien;546
+Nouadhibou;Mauretanien;546
+Conakry;Guinea;546
+Espargos;Kap Verde;546
+Rabil;Kap Verde;546
+Praia;Kap Verde;546
+São Pedro;Kap Verde;546
+Dire Dawa;Etiopien;546
+Jijiga;Etiopien;546
+Hawassa;Etiopien;546
+Bujumbura;Burundi;546
+Bosaso;Somalia;546
+Hargeisa;Somalia;546
+Mogadishu;Somalia;546
+Djibouti City;Djibouti;546
+El Alamein;Egypten;546
+El Arish;Egypten;546
+Asyut;Egypten;546
+Alexandria;Egypten;546
+Hurghada;Egypten;546
+Luxor;Egypten;546
+Marsa Alam;Egypten;546
+Marsa Matruh;Egypten;546
+Port Said;Egypten;546
+Suhaj;Egypten;546
+Sharm El Sheikh;Egypten;546
+Aswan;Egypten;546
+Al Jiza;Egypten;546
+Juba;Sydsudan;546
+Eldoret;Kenya;546
+Kisumu;Kenya;546
+Benina;Libyen;546
+Tripoli;Libyen;546
+Al Albraq;Libyen;546
+Kigali;Rwanda;546
+Port Sudan;Sudan;546
+Khartoum;Sudan;546
+Arusha;Tanzania;546
+Dar es Salaam;Tanzania;546
+Mwanza;Tanzania;546
+Entebbe;Uganda;546
+Navi Mumbai;Indien;546
+Albuquerque;USA;546
+Albany;USA;546
+Pittsburgh;USA;546
+Austin;USA;546
+Columbus;USA;546
+Hartford;USA;546
+Cleveland;USA;546
+Nashville;USA;546
+Boise;USA;546
+Buffalo;USA;546
+Burbank;USA;546
+Baltimore;USA;546
+Charleston;USA;546
+Charlotte;USA;546
+Colorado Springs;USA;546
+Jacksonville;USA;546
+Cincinnati / Covington;USA;546
+Detroit;USA;546
+Dallas-Fort Worth;USA;546
+Tucson;USA;546
+Des Moines;USA;546
+El Paso;USA;546
+Newark;USA;546
+Fresno;USA;546
+Fort Lauderdale;USA;546
+Fort Myers;USA;546
+Spokane;USA;546
+Grand Rapids;USA;546
+Greensboro;USA;546
+Ta Noun;Cambodia;546
+Phnom Penh (Boeng Khyang);Cambodia;546
+Portland;USA;546
+Dulles;USA;546
+Indianapolis;USA;546
+Long Beach;USA;546
+Louisville;USA;546
+Sacramento;USA;546
+Tampa;USA;546
+Kansas City;USA;546
+Memphis;USA;546
+Milwaukee;USA;546
+Minneapolis;USA;546
+New Orleans;USA;546
+Myrtle Beach;USA;546
+Norfolk;USA;546
+San Diego;USA;546
+Pensacola;USA;546
+Oakland;USA;546
+Omaha;USA;546
+Oklahoma City;USA;546
+Ontario;USA;546
+West Palm Beach;USA;546
+Phoenix;USA;546
+Pinellas Park;USA;546
+Palm Springs;USA;546
+Providence/Warwick;USA;546
+Raleigh/Durham;USA;546
+Richmond;USA;546
+Reno;USA;546
+Rochester;USA;546
+Tulsa;USA;546
+San Antonio;USA;546
+Savannah;USA;546
+San Bernardino;USA;546
+San Jose;USA;546
+Salt Lake City;USA;546
+Santa Ana;USA;546
+Sarasota/Bradenton;USA;546
+St Louis;USA;546
+Syracuse;USA;546
+Knoxville/Maryville;USA;546
+Rinas;Albanien;546
+Burgas;Bulgarien;546
+Plovdiv;Bulgarien;546
+Sofia;Bulgarien;546
+Varna;Bulgarien;546
+Tymbou (Kirklar);Cypern;546
+Larnaca;Cypern;546
+Paphos;Cypern;546
+Dubrovnik;Kroatien;546
+Pula;Kroatien;546
+Rijeka(Omišalj);Kroatien;546
+Split;Kroatien;546
+Velika Gorica;Kroatien;546
+Zadar;Kroatien;546
+Alicante;Spanien;546
+Ranón;Spanien;546
+Bilbao;Spanien;546
+Girona;Spanien;546
+Málaga;Spanien;546
+Mahón (Maó);Spanien;546
+Corvera;Spanien;546
+Reus;Spanien;546
+Santiago de Compostela;Spanien;546
+Valencia;Spanien;546
+Zaragoza;Spanien;546
+Bastia;Frankrig;546
+Figari;Frankrig;546
+Clermont-Ferrand;Frankrig;546
+Montpellier/Méditerranée;Frankrig;546
+Beauvais;Frankrig;546
+Brest;Frankrig;546
+Bâle / Mulhouse;Frankrig;546
+Kavala;Grækenland;546
+Souda;Grækenland;546
+Debrecen;Ungarn;546
+Pécs;Ungarn;546
+Bari;Italien;546
+Pescara;Italien;546
+Brindisi;Italien;546
+Lamezia Terme (CZ);Italien;546
+Catania;Italien;546
+Palermo;Italien;546
+Cagliari;Italien;546
+Olbia (SS);Italien;546
+Orio al Serio (BG);Italien;546
+Segrate (MI);Italien;546
+Bologna;Italien;546
+Treviso (TV);Italien;546
+Ronchi dei Legionari/Trieste;Italien;546
+Rimini (RN);Italien;546
+Caselle (VR);Italien;546
+Perugia (PG);Italien;546
+Zgornji Brnik;Slovenien;546
+České Budějovice;Tjekkiet;546
+Karlovy Vary;Tjekkiet;546
+Mošnov;Tjekkiet;546
+Pardubice;Tjekkiet;546
+Eilat;Israel;546
+Valletta;Malta;546
+Feldkirchen bei Graz;Østrig;546
+Klagenfurt am Wörthersee;Østrig;546
+Linz;Østrig;546
+Funchal;Portugal;546
+Ponta Delgada;Portugal;546
+Porto;Portugal;546
+Mahovljani;Bosnien-Hercegovina;546
+Mostar;Bosnien-Hercegovina;546
+Sarajevo;Bosnien-Hercegovina;546
+Dubrave Gornje;Bosnien-Hercegovina;546
+Bacău;Rumænien;546
+Brașov (Ghimbav);Rumænien;546
+Constanța;Rumænien;546
+Cluj-Napoca;Rumænien;546
+Craiova;Rumænien;546
+Iaşi;Rumænien;546
+Oradea;Rumænien;546
+Otopeni;Rumænien;546
+Sibiu;Rumænien;546
+Suceava;Rumænien;546
+Timişoara;Rumænien;546
+Seyhan;Tyrkiet;546
+Gaziantep;Tyrkiet;546
+Konya;Tyrkiet;546
+Kayseri;Tyrkiet;546
+Nevşehir;Tyrkiet;546
+Eskişehir;Tyrkiet;546
+Gaziemir;Tyrkiet;546
+Dalaman;Tyrkiet;546
+Şanlıurfa;Tyrkiet;546
+Tarsus;Tyrkiet;546
+Edremit;Tyrkiet;546
+Bodrum;Tyrkiet;546
+Pendik, Istanbul;Tyrkiet;546
+Rize;Tyrkiet;546
+Chişinău;Moldova;546
+Ohrid;Nordmakedonien;546
+Ilinden;Nordmakedonien;546
+Gibraltar;Gibraltar;546
+Belgrade;Serbien;546
+Niš;Serbien;546
+Podgorica;Montenegro;546
+Bratislava;Slovakiet;546
+Providenciales;Turks- og Caicosøerne;546
+La Romana;Den Dominikanske Republik;546
+Punta Cana;Den Dominikanske Republik;546
+Santo Domingo;Den Dominikanske Republik;546
+Guatemala City;Guatemala;546
+San Pedro Sula;Honduras;546
+Coxen Hole;Honduras;546
+Palmerola;Honduras;546
+Trujillo;Peru;546
+Montego Bay;Jamaica;546
+Acapulco;Mexico;546
+Monterrey;Mexico;546
+Aguascalientes;Mexico;546
+Huatulco;Mexico;546
+Culiacán;Mexico;546
+Ciudad Juárez;Mexico;546
+Chihuahua;Mexico;546
+Cozumel;Mexico;546
+Guadalajara;Mexico;546
+Hermosillo;Mexico;546
+Silao;Mexico;546
+Loreto;Mexico;546
+Mérida;Mexico;546
+Morelia;Mexico;546
+Mazatlàn;Mexico;546
+Oaxaca;Mexico;546
+Puebla;Mexico;546
+Puerto Vallarta;Mexico;546
+Querétaro;Mexico;546
+San José del Cabo;Mexico;546
+Tijuana;Mexico;546
+Tulum;Mexico;546
+Toluca;Mexico;546
+Villahermosa;Mexico;546
+Veracruz;Mexico;546
+Ixtapa;Mexico;546
+Managua;Nicaragua;546
+Tocumen;Panama;546
+Punta Arenas;Chile;546
+Liberia;Costa Rica;546
+San José (Alajuela);Costa Rica;546
+San Salvador (San Luis Talpa);El Salvador;546
+San Salvador;Bahamas;546
+Cap Haitien;Haiti;546
+Port-au-Prince;Haiti;546
+Camaguey;Cuba;546
+Havana;Cuba;546
+Holguin;Cuba;546
+Santa Clara;Cuba;546
+Matanzas;Cuba;546
+George Town;Caymanøerne;546
+Freeport;Bahamas;546
+Nassau;Bahamas;546
+Avarua;Cookøerne;546
+Nadi;Fiji;546
+Nausori;Fiji;546
+Nuku'alofa;Tonga;546
+Vava'u Island;Tonga;546
+Birinin Kebbi;Nigeria;546
+South Tarawa;Kiribati;546
+Wallis Island;Wallis og Futuna;546
+Pokhara;Nepal;546
+Apia;Samoa;546
+Pago Pago;Amerikansk Samoa;546
+Port Vila;Vanuatu;546
+Nouméa (La Tontouta);Ny Kaledonien;546
+Christchurch;New Zealand;546
+Wellington;New Zealand;546
+Guzara;Afghanistan;546
+Kabul;Afghanistan;546
+Kandahar;Afghanistan;546
+Mazar-i-Sharif;Afghanistan;546
+Corisco Island;Ækvatorialguinea;546
+Abha;Saudi-Arabien;546
+Hofuf;Saudi-Arabien;546
+Al-Ula;Saudi-Arabien;546
+Ad Dammam;Saudi-Arabien;546
+Qassim;Saudi-Arabien;546
+Hail;Saudi-Arabien;546
+Medina;Saudi-Arabien;546
+Sharma;Saudi-Arabien;546
+Qaisumah;Saudi-Arabien;546
+Al-Jawf;Saudi-Arabien;546
+Tabuk;Saudi-Arabien;546
+Taif;Saudi-Arabien;546
+Yanbu;Saudi-Arabien;546
+Abadan;Iran;546
+Ahvaz;Iran;546
+Kish Island;Iran;546
+Isfahan;Iran;546
+Karaj;Iran;546
+Bandar Abbas;Iran;546
+Kerman;Iran;546
+Qeshm(Dayrestan);Iran;546
+Birjand;Iran;546
+Mashhad;Iran;546
+Shiraz;Iran;546
+Tabriz;Iran;546
+Zahedan;Iran;546
+Aqaba;Jordan;546
+Duqm;Oman;546
+Al Ain;De Forenede Arabiske Emirater;546
+Dubai(Jebel Ali);De Forenede Arabiske Emirater;546
+Fujairah;De Forenede Arabiske Emirater;546
+Ras Al Khaimah;De Forenede Arabiske Emirater;546
+Sharjah;De Forenede Arabiske Emirater;546
+Muscat/Seeb;Oman;546
+Salalah;Oman;546
+Suhar;Oman;546
+Faisalabad;Pakistan;546
+Gurandani;Pakistan;546
+Attock;Pakistan;546
+Lahore;Pakistan;546
+Multan;Pakistan;546
+Peshawar;Pakistan;546
+Quetta;Pakistan;546
+Skardu;Pakistan;546
+Sialkot;Pakistan;546
+Turbat;Pakistan;546
+Baghdad;Irak;546
+Arbil;Irak;546
+Kirkuk;Irak;546
+Basra;Irak;546
+Najaf;Irak;546
+Aleppo;Syrien;546
+Damascus;Syrien;546
+Aden;Yemen;546
+Mukalla(Riyan);Yemen;546
+Sanaa;Yemen;546
+Seiyun;Yemen;546
+Anchorage;USA;546
+Rota Island;Nordmarianerne;546
+Hagåtña;Guam;546
+Kailua-Kona;USA;546
+Lihue, Kauai;USA;546
+Honolulu, Oahu;USA;546
+Kahului;USA;546
+Majuro Atoll;Marshalløerne;546
+Kiritimati;Kiribati;546
+Weno Island;Mikronesien;546
+Babelthuap Island;Palau;546
+Okat;Mikronesien;546
+Yap Island;Mikronesien;546
+Kaohsiung (Xiaogang);Taiwan;546
+Taichung (Qingshui);Taiwan;546
+Tainan (Rende);Taiwan;546
+Huxi;Taiwan;546
+Taipei (Songshan);Taiwan;546
+Taoyuan;Taiwan;546
+Hualien City;Taiwan;546
+Narita;Japan;546
+Omitama;Japan;546
+Kobe;Japan;546
+Hakodate;Japan;546
+Kagoshima;Japan;546
+Miyazaki;Japan;546
+Kitakyushu;Japan;546
+Saga;Japan;546
+Kumamoto;Japan;546
+Nagasaki;Japan;546
+Tokoname;Japan;546
+Kanazawa;Japan;546
+Makinohara / Shimada;Japan;546
+Hiroshima;Japan;546
+Okayama;Japan;546
+Nankoku;Japan;546
+Matsuyama;Japan;546
+Tokushima;Japan;546
+Takamatsu;Japan;546
+Aomori;Japan;546
+Niigata;Japan;546
+Natori;Japan;546
+Muan (Piseo-ri);Sydkorea;546
+Gonghang-ro;Sydkorea;546
+Jeju City;Sydkorea;546
+Daegu;Sydkorea;546
+Cheongju;Sydkorea;546
+Naha;Japan;546
+Olongapo;Filippinerne;546
+Mabalacat;Filippinerne;546
+Laoag City;Filippinerne;546
+Legazpi;Filippinerne;546
+Manila (Pasay);Filippinerne;546
+Davao;Filippinerne;546
+General Santos;Filippinerne;546
+Laguindingan;Filippinerne;546
+Zamboanga;Filippinerne;546
+Bacolod City;Filippinerne;546
+Cabatuan;Filippinerne;546
+Kalibo;Filippinerne;546
+Cebu City/Lapu-Lapu City;Filippinerne;546
+Puerto Princesa;Filippinerne;546
+Hanak;Saudi-Arabien;546
+Rosario;Argentina;546
+Cordoba;Argentina;546
+Buenos Aires (Ezeiza);Argentina;546
+Mendoza;Argentina;546
+San Miguel de Tucumán;Argentina;546
+San Juan;Puerto Rico;546
+Resistencia;Argentina;546
+Salta;Argentina;546
+San Salvador de Jujuy;Argentina;546
+Comodoro Rivadavia;Argentina;546
+El Calafate;Argentina;546
+Rio Gallegos;Argentina;546
+Neuquén;Argentina;546
+San Carlos de Bariloche;Argentina;546
+Belém;Brasilien;546
+Belo Horizonte;Brasilien;546
+Curitiba;Brasilien;546
+Brasília;Brasilien;546
+Boa Vista;Brasilien;546
+Porto Alegre;Brasilien;546
+Cuiabá;Brasilien;546
+Manaus;Brasilien;546
+Foz do Iguaçu;Brasilien;546
+Florianópolis;Brasilien;546
+Fortaleza;Brasilien;546
+Rio De Janeiro;Brasilien;546
+Goiânia;Brasilien;546
+João Pessoa;Brasilien;546
+Campinas;Brasilien;546
+Maceió;Brasilien;546
+Navegantes;Brasilien;546
+Porto Seguro;Brasilien;546
+Porto Velho;Brasilien;546
+Rio Branco;Brasilien;546
+Recife;Brasilien;546
+Natal;Brasilien;546
+São Luís;Brasilien;546
+Salvador;Brasilien;546
+Vitória;Brasilien;546
+Iquique;Chile;546
+Antofagasta;Chile;546
+Concepcion;Chile;546
+Isla De Pascua;Chile;546
+Temuco;Chile;546
+Puerto Montt;Chile;546
+Guayaquil;Ecuador;546
+Quito;Ecuador;546
+Salinas/La Libertad;Ecuador;546
+Tachina;Ecuador;546
+Asunción;Paraguay;546
+Encarnación;Paraguay;546
+Ciudad del Este;Paraguay;546
+Bogota;Colombia;546
+Barranquilla;Colombia;546
+Cartagena;Colombia;546
+Cali;Colombia;546
+Medellín;Colombia;546
+San Andrés;Colombia;546
+Sucre;Bolivia;546
+Cochabamba;Bolivia;546
+Santa Cruz;Bolivia;546
+La Paz / El Alto;Bolivia;546
+Oruro;Bolivia;546
+Quijarro;Bolivia;546
+Paramaribo;Surinam;546
+Matoury;Fransk Guyana;546
+Pucallpa;Peru;546
+Chiclayo;Peru;546
+Juliaca;Peru;546
+Iquitos;Peru;546
+Arequipa;Peru;546
+Cusco;Peru;546
+Ciudad de la Costa;Uruguay;546
+Barquisimeto;Venezuela;546
+Maracaibo;Venezuela;546
+Isla Margarita;Venezuela;546
+Maiquetía;Venezuela;546
+Guyana City;Venezuela;546
+Georgetown;Guyana;546
+Osbourn;Antigua og Barbuda;546
+Bridgetown;Barbados;546
+Fort-de-France;Martinique;546
+Pointe-à-Pitre;Guadeloupe;546
+Saint George's;Grenada;546
+Charlotte Amalie;Amerikanske Jomfruøer;546
+Basseterre;Saint Kitts og Nevis;546
+Vieux Fort;Saint Lucia;546
+Balkanabat;Turkmenistan;546
+Oranjestad;Aruba;546
+Kralendijk;Karibisk Holland;546
+Willemstad;Curaçao;546
+Sint Maarten;Sint Maarten;546
+Gerald's Park;Montserrat;546
+Scarborough;Trinidad og Tobago;546
+Port of Spain;Trinidad og Tobago;546
+Beef Island;Britiske Jomfruøer;546
+Kingstown;Saint Vincent og Grenadinerne;546
+Astana;Kasakhstan;546
+Kokshetau;Kasakhstan;546
+Petropavl;Kasakhstan;546
+Taraz;Kasakhstan;546
+Bishkek;Kirgisistan;546
+Osh;Kirgisistan;546
+Shymkent;Kasakhstan;546
+Turkıstan;Kasakhstan;546
+Zhezkazgan;Kasakhstan;546
+Karaganda;Kasakhstan;546
+Baikonur;Kasakhstan;546
+Kyzylorda;Kasakhstan;546
+Uralsk;Kasakhstan;546
+Ust-Kamenogorsk (Oskemen);Kasakhstan;546
+Pavlodar;Kasakhstan;546
+Semey;Kasakhstan;546
+Aktau;Kasakhstan;546
+Atyrau;Kasakhstan;546
+Aktobe;Kasakhstan;546
+Kostanay;Kasakhstan;546
+Ganja;Aserbajdsjan;546
+Nakhchivan;Aserbajdsjan;546
+Tamchy;Kirgisistan;546
+Gyumri;Armenien;546
+Yerevan;Armenien;546
+Yakutsk;Rusland;546
+Kopitnari;Georgien;546
+Batumi;Georgien;546
+Tbilisi;Georgien;546
+Petropavlovsk-Kamchatsky;Rusland;546
+Yuzhno-Sakhalinsk;Rusland;546
+Artyom;Rusland;546
+Chita;Rusland;546
+Irkutsk;Rusland;546
+Ulan Ude;Rusland;546
+Simferopol;Ukraine;546
+Lviv;Ukraine;546
+Uzhhorod;Ukraine;546
+Murmansk;Rusland;546
+Kaliningrad;Rusland;546
+Minsk;Hviderusland;546
+Abakan;Rusland;546
+Barnaul;Rusland;546
+Kemerovo;Rusland;546
+Krasnoyarsk;Rusland;546
+Novosibirsk;Rusland;546
+Omsk;Rusland;546
+Tomsk;Rusland;546
+Norilsk;Rusland;546
+Krasnodar;Rusland;546
+Grozny;Rusland;546
+Makhachkala;Rusland;546
+Mineralnyye Vody;Rusland;546
+Rostov-on-Don;Rusland;546
+Sochi;Rusland;546
+Astrakhan;Rusland;546
+Volgograd;Rusland;546
+Chelyabinsk;Rusland;546
+Magnitogorsk;Rusland;546
+Nizhnevartovsk;Rusland;546
+Perm;Rusland;546
+Surgut;Rusland;546
+Yekaterinburg;Rusland;546
+Tyumen;Rusland;546
+Ashgabat;Turkmenistan;546
+Daşoguz;Turkmenistan;546
+Türkmenabat;Turkmenistan;546
+Dushanbe;Tadsjikistan;546
+Kulob;Tadsjikistan;546
+Khujand;Tadsjikistan;546
+Bokhtar;Tadsjikistan;546
+Namangan;Usbekistan;546
+Nukus;Usbekistan;546
+Urgench;Usbekistan;546
+Bukhara;Usbekistan;546
+Samarkand;Usbekistan;546
+Moskva;Rusland;546
+Tunoshna;Rusland;546
+Nizhny Novgorod;Rusland;546
+Kazan;Rusland;546
+Saransk;Rusland;546
+Saratov;Rusland;546
+Ufa;Rusland;546
+Samara;Rusland;546
+Ahmedabad;Indien;546
+Vadodara;Indien;546
+Bhopal;Indien;546
+Rajkot;Indien;546
+Indore;Indien;546
+Nagpur;Indien;546
+Nashik;Indien;546
+Pune;Indien;546
+Kakadi;Indien;546
+Surat;Indien;546
+Jaffna;Sri Lanka;546
+Mattala;Sri Lanka;546
+Siem Reap;Cambodia;546
+Preah Sihanouk;Cambodia;546
+Siliguri;Indien;546
+Varanasi;Indien;546
+Bhubaneswar;Indien;546
+Guwahati;Indien;546
+Imphal;Indien;546
+Visakhapatnam;Indien;546
+Chattogram (Chittagong);Bangladesh;546
+Sylhet;Bangladesh;546
+Amritsar;Indien;546
+Chandigarh;Indien;546
+New Delhi;Indien;546
+Hisar;Indien;546
+Halwara;Indien;546
+Jaipur;Indien;546
+Lucknow;Indien;546
+Srinagar;Indien;546
+Luang Phabang;Laos;546
+Pakse;Laos;546
+Vientiane;Laos;546
+Nossa Senhora do Carmo;Macau;546
+Siddharthanagar (Bhairahawa);Nepal;546
+Bengaluru;Indien;546
+Vijayawada;Indien;546
+Coimbatore;Indien;546
+Kochi;Indien;546
+Calicut;Indien;546
+Mopa;Indien;546
+Vasco da Gama;Indien;546
+Kannur;Indien;546
+Mangaluru;Indien;546
+Port Blair;Indien;546
+Tirupati;Indien;546
+Tiruchirappalli;Indien;546
+Thiruvananthapuram;Indien;546
+Paro;Bhutan;546
+Noonu Atoll;Maldiverne;546
+Gan;Maldiverne;546
+Haa Dhaalu Atoll;Maldiverne;546
+Malé;Maldiverne;546
+Rayong;Thailand;546
+Chiang Rai;Thailand;546
+Krabi;Thailand;546
+Na Thon (Ko Samui Island);Thailand;546
+Hat Yai;Thailand;546
+Udon Thani;Thailand;546
+Haiphong (Hai An);Vietnam;546
+Nha Trang/nha Trang aiurportCam Ranh;Vietnam;546
+Can Tho;Vietnam;546
+Da Nang;Vietnam;546
+Hanoi (Soc Son);Vietnam;546
+Phu Quoc Island;Vietnam;546
+Mandalay;Myanmar;546
+Naypyitaw;Myanmar;546
+Makassar;Indonesien;546
+Kuta, Badung;Indonesien;546
+Mataram (Pujut, Lombok Tengah);Indonesien;546
+Yogyakarta;Indonesien;546
+Sentani;Indonesien;546
+Balikpapan;Indonesien;546
+Manado;Indonesien;546
+Banjarbaru;Indonesien;546
+Ambon;Indonesien;546
+Surakarta;Indonesien;546
+Surabaya;Indonesien;546
+Semarang;Indonesien;546
+Kuching;Malaysia;546
+Kota Kinabalu;Malaysia;546
+Bandar Seri Begawan;Brunei;546
+Batam;Indonesien;546
+Beringin;Indonesien;546
+Pontianak;Indonesien;546
+Padang (Katapiang);Indonesien;546
+Banda Aceh;Indonesien;546
+Ipoh;Malaysia;546
+Johor Bahru;Malaysia;546
+Sepang;Malaysia;546
+Langkawi;Malaysia;546
+Penang;Malaysia;546
+Subang;Malaysia;546
+Dili;Østtimor;546
+Oecussi-Ambeno;Østtimor;546
+Brisbane;Australien;546
+Gold Coast;Australien;546
+Cairns;Australien;546
+Broome;Australien;546
+Maroochydore;Australien;546
+Toowoomba;Australien;546
+Mokha;Yemen;546
+Geelong/Melbourne;Australien;546
+Hobart (Cambridge);Australien;546
+Adelaide;Australien;546
+West Island;Kokosøerne;546
+Darwin;Australien;546
+Perth;Australien;546
+Port Hedland;Australien;546
+Sydney (Mascot);Australien;546
+Williamtown;Australien;546
+Ordos;Kina;546
+Datong;Kina;546
+Hohhot;Kina;546
+Hailar;Kina;546
+Baotou;Kina;546
+Shijiazhuang;Kina;546
+Tianjin;Kina;546
+Yuncheng (Yanhu);Kina;546
+Taiyuan;Kina;546
+Zhangjiajie (Yongding);Kina;546
+Guangzhou (Huadu);Kina;546
+Changsha (Changsha);Kina;546
+Guilin (Lingui);Kina;546
+Nanning (Jiangnan);Kina;546
+Jieyang (Rongcheng);Kina;546
+Zhuhai (Jinwan);Kina;546
+Zhanjiang;Kina;546
+Zhengzhou;Kina;546
+Ezhou;Kina;546
+Wuhan (Huangpi);Kina;546
+Luoyang (Laocheng);Kina;546
+Haikou (Meilan);Kina;546
+Sanya (Tianya);Kina;546
+Pyongyang;Nordkorea;546
+Dunhuang;Kina;546
+Yinchuan;Kina;546
+Jiayuguan;Kina;546
+Lanzhou (Yongdeng);Kina;546
+Haidong (Huzhu Tu Autonomous County);Kina;546
+Xi'an;Kina;546
+Ulaanbaatar (Sergelen);Mongoliet;546
+Jinghong (Gasa);Kina;546
+Lijiang;Kina;546
+Kunming;Kina;546
+Xiamen;Kina;546
+Nanchang;Kina;546
+Fuzhou (Changle);Kina;546
+Jinan (Licheng);Kina;546
+Lianyungang;Kina;546
+Ningbo;Kina;546
+Nanjing;Kina;546
+Hefei;Kina;546
+Shanghai (Pudong);Kina;546
+Qingdao (Jiaozhou);Kina;546
+Quanzhou;Kina;546
+Huai'an;Kina;546
+Shanghai (Minhang);Kina;546
+Huangshan;Kina;546
+Wuxi;Kina;546
+Wenzhou (Longwan);Kina;546
+Yancheng (Tinghu);Kina;546
+Yantai;Kina;546
+Yiwu/Jinhua;Kina;546
+Zhoushan;Kina;546
+Chongqing;Kina;546
+Guiyang (Nanming);Kina;546
+Shannan (Gonggar);Kina;546
+Xigazê (Samzhubzê);Kina;546
+Chengdu (Jianyang);Kina;546
+Chengdu (Shuangliu);Kina;546
+Kashgar;Kina;546
+Ürümqi;Kina;546
+Changchun;Kina;546
+Harbin;Kina;546
+Qiqihar;Kina;546
+Dalian (Ganjingzi);Kina;546
+Shenyang;Kina;546
+Yamoussoukro;Elfenbenskysten;351
+Niamtougou;Togo;351
+Berenice Troglodytica;Egypten;351
+Liepāja;Letland;351
+Sirt;Libyen;351
+Gautam Buddha Nagar;Indien;351
+Istanbul(Bakırköy);Tyrkiet;351
+Dhahran;Saudi-Arabien;351
+Mosul;Irak;351
+Okinawa;Japan;351
+Pisco;Peru;351
+Zaporizhia;Ukraine;351
+Odesa;Ukraine;351
+Phnom Penh (Pou Senchey);Cambodia;351
+Ho Chi Minh City (Long Thanh);Vietnam;351
+Ulan Bator;Mongoliet;351
+Aleknagik;USA;222
+Friday Harbor;USA;222
+Eastsound;USA;222
+Codrington;Antigua og Barbuda;222
+Munda;Salomonøerne;222
+Yaren;Nauru;222
+Bayanhot;Kina;222
+Baimuru;Papua Ny Guinea;222
+Buka Island;Papua Ny Guinea;222
+Balimo;Papua Ny Guinea;222
+Kundiawa;Papua Ny Guinea;222
+Daru;Papua Ny Guinea;222
+Goronka;Papua Ny Guinea;222
+Gurney;Papua Ny Guinea;222
+Popondetta;Papua Ny Guinea;222
+Kimbe;Papua Ny Guinea;222
+Kerema;Papua Ny Guinea;222
+Kavieng;Papua Ny Guinea;222
+Madang;Papua Ny Guinea;222
+Mount Hagen;Papua Ny Guinea;222
+Mendi;Papua Ny Guinea;222
+Manus Island;Papua Ny Guinea;222
+Kokopo;Papua Ny Guinea;222
+Vanimo;Papua Ny Guinea;222
+Wapenamanda;Papua Ny Guinea;222
+Wewak;Papua Ny Guinea;222
+Aasiaat;Grønland;222
+Neerlerit Inaat;Grønland;222
+Ilulissat;Grønland;222
+Kulusuk;Grønland;222
+Qaanaaq;Grønland;222
+Kangerlussuaq;Grønland;222
+Sisimiut;Grønland;222
+Pituffik;Grønland;222
+Egilsstaðir;Island;222
+Grímsey/Sandvík;Island;222
+Höfn;Island;222
+Ísafjörður;Island;222
+Vopnafjörður;Island;222
+Vitória da Conquista;Brasilien;222
+Caye Caulker;Belize;222
+Caye Chapel;Belize;222
+Corozal;Belize;222
+Dangriga;Belize;222
+Punta Gorda;USA;222
+San Pedro;Belize;222
+Anahim Lake;Canada;222
+Qualicum Beach;Canada;222
+Bella Bella;Canada;222
+Charlottetown;Canada;222
+Bazhong;Kina;222
+Shaoguan;Kina;222
+Ji'an;Kina;222
+Xiuzhou, Hangzhou;Kina;222
+Xigazê (Dingri);Kina;222
+Tashikuergan;Kina;222
+Bengbu;Kina;222
+Fort Frances;Canada;222
+Sault Ste Marie;Canada;222
+Kasabonika;Canada;222
+St. Anthony;Canada;222
+Tofino;Canada;222
+Baie-Comeau;Canada;222
+Bella Coola;Canada;222
+Bonnyville;Canada;222
+Saguenay;Canada;222
+Baker Lake;Canada;222
+Campbell River;Canada;222
+Brandon;Canada;222
+Blanc-Sablon;Canada;222
+Cambridge Bay;Canada;222
+Nanaimo;Canada;222
+Castlegar;Canada;222
+Charlo;Canada;222
+Dawson City;Canada;222
+Deer Lake;Canada;222
+Dauphin;Canada;222
+Inuvik;Canada;222
+Iqaluit;Canada;222
+Fredericton;Canada;222
+Fort Simpson;Canada;222
+La Grande Rivière;Canada;222
+Gaspé;Canada;222
+Les Îles-de-la-Madeleine;Canada;222
+Havre-Saint-Pierre;Canada;222
+Kuujjuarapik;Canada;222
+Hay River;Canada;222
+St-Augustin;Canada;222
+Island Lake;Canada;222
+Stephenville;Canada;222
+Kamloops;Canada;222
+Breslau;Canada;222
+Schefferville;Canada;222
+Lloydminster;Canada;222
+Barrie;Canada;222
+Fort McMurray;Canada;222
+Moosonee;Canada;222
+Chibougamau;Canada;222
+Natashquan;Canada;222
+Gatineau;Canada;222
+Points North Landing;Canada;222
+High Level;Canada;222
+Prince Albert;Canada;222
+Peace River;Canada;222
+Pickle Lake;Canada;222
+Port-Menier;Canada;222
+Peterborough;Canada;222
+Prince Rupert;Canada;222
+Powell River;Canada;222
+Puvirnituq;Canada;222
+Fort Chipewyan;Canada;222
+Burns Lake;Canada;222
+Gravenhurst;Canada;222
+The Pas;Canada;222
+Windsor;Canada;222
+Watson Lake;Canada;222
+Kenora;Canada;222
+Lethbridge;Canada;222
+Moncton;Canada;222
+Nakina;Canada;222
+Comox;Canada;222
+Regina;Canada;222
+Thunder Bay;Canada;222
+Grande Prairie;Canada;222
+Gander;Canada;222
+Quesnel;Canada;222
+Resolute Bay;Canada;222
+Roberval;Canada;222
+Red Lake;Canada;222
+Rankin Inlet;Canada;222
+Sudbury;Canada;222
+Stony Rapids;Canada;222
+Saint John;Canada;222
+Saint-Léonard;Canada;222
+Fort Smith;Canada;222
+Niagara-on-the-Lake;Canada;222
+Thompson;Canada;222
+Timmins;Canada;222
+Sanirajak;Canada;222
+Rouyn-Noranda;Canada;222
+Bonaventure;Canada;222
+La Ronge;Canada;222
+Val-d'Or;Canada;222
+Kuujjuaq;Canada;222
+Norman Wells;Canada;222
+Wiarton;Canada;222
+Wabush;Canada;222
+Williams Lake;Canada;222
+Cranbrook;Canada;222
+Medicine Hat;Canada;222
+Fort Saint John;Canada;222
+Rimouski;Canada;222
+Sioux Lookout;Canada;222
+Prince George;Canada;222
+Terrace;Canada;222
+Abbotsford;Canada;222
+Whitehorse;Canada;222
+North Bay;Canada;222
+Smithers;Canada;222
+Fort Nelson;Canada;222
+Penticton;Canada;222
+Lynn Lake;Canada;222
+Churchill;Canada;222
+Goose Bay;Canada;222
+Mont-Joli;Canada;222
+Yellowknife;Canada;222
+Sandspit;Canada;222
+Coral Harbour;Canada;222
+Port Hardy;Canada;222
+Whitecourt;Canada;222
+Sept-Îles;Canada;222
+South Tetagouche;Canada;222
+Grand Forks;USA;222
+Masset;Canada;222
+Sandy Lake;Canada;222
+Illizi;Algeriet;222
+Sétif;Algeriet;222
+Tébessi;Algeriet;222
+Tindouf;Algeriet;222
+Béchar;Algeriet;222
+Bordj Badji Mokhtar;Algeriet;222
+Adrar;Algeriet;222
+El Menia;Algeriet;222
+El Atteuf;Algeriet;222
+Hassi Messaoud;Algeriet;222
+In Salah;Algeriet;222
+Touggourt;Algeriet;222
+Guemar;Algeriet;222
+Timimoun;Algeriet;222
+Ouargla;Algeriet;222
+In Aménas;Algeriet;222
+Sunyani;Ghana;222
+Sekondi-Takoradi;Ghana;222
+Bouaké;Elfenbenskysten;222
+;Elfenbenskysten;222
+Korhogo;Elfenbenskysten;222
+Katsina;Nigeria;222
+Uyo;Nigeria;222
+Akure;Nigeria;222
+Benin;Nigeria;222
+Calabar;Nigeria;222
+Gombe;Nigeria;222
+Ibadan;Nigeria;222
+Owerri;Nigeria;222
+Jos;Nigeria;222
+Makurdi;Nigeria;222
+Okpe;Nigeria;222
+Yola;Nigeria;222
+Zinder;Niger;222
+Tabarka;Tunesien;222
+Monastir;Tunesien;222
+Enfidha;Tunesien;222
+Gafsa;Tunesien;222
+Gabès;Tunesien;222
+Sfax;Tunesien;222
+Tozeur;Tunesien;222
+Antwerp;Belgien;222
+Grâce-Hollogne;Belgien;222
+Zirchow;Tyskland;222
+Saarbrücken;Tyskland;222
+Mannheim;Tyskland;222
+Lübeck;Tyskland;222
+Sylt;Tyskland;222
+Kärdla;Estland;222
+Kuressaare;Estland;222
+Pärnu;Estland;222
+Tartu;Estland;222
+Enontekio;Finland;222
+Joensuu;Finland;222
+Jyväskylän Maalaiskunta;Finland;222
+Kemi / Tornio;Finland;222
+Kajaani;Finland;222
+Kokkola / Kruunupyy;Finland;222
+Kuusamo;Finland;222
+Pori;Finland;222
+Savonlinna;Finland;222
+Derry, Derry and Strabane;Storbritannien;222
+Campbeltown;Storbritannien;222
+Eday;Storbritannien;222
+Bournemouth;Storbritannien;222
+Southampton;Storbritannien;222
+Newquay;Storbritannien;222
+Saint Anne;Guernsey;222
+Saint Peter Port;Guernsey;222
+St. Peter;Jersey;222
+Southend-on-Sea, Essex;Storbritannien;222
+Grimsby, Lincolnshire;Storbritannien;222
+Darlington, Durham;Storbritannien;222
+Kirkwall, Orkney Islands;Storbritannien;222
+Lerwick, Shetland;Storbritannien;222
+Wick;Storbritannien;222
+Inverness;Storbritannien;222
+Isle of Islay, Argyll and Bute;Storbritannien;222
+Balivanich;Storbritannien;222
+Dundee;Storbritannien;222
+Stornoway, Western Isles;Storbritannien;222
+Eoligarry;Storbritannien;222
+Balemartine, Argyll and Bute;Storbritannien;222
+Norwich, Norfolk;Storbritannien;222
+Exeter, Devon;Storbritannien;222
+Donegal;Irland;222
+Farranfore;Irland;222
+Esbjerg;Danmark;222
+Karup;Danmark;222
+Roskilde;Danmark;222
+Rønne;Danmark;222
+Sønderborg;Danmark;222
+Andenes;Norge;222
+Alta;Norge;222
+Brønnøy;Norge;222
+Båtsfjord;Norge;222
+Berlevåg;Norge;222
+Målselv;Norge;222
+Florø;Norge;222
+Karmøy;Norge;222
+Hammerfest;Norge;222
+Honningsvåg;Norge;222
+Kvernberget;Norge;222
+Kirkenes;Norge;222
+Leknes;Norge;222
+Mehamn;Norge;222
+Årø;Norge;222
+Mosjøen;Norge;222
+Lakselv;Norge;222
+Ørland;Norge;222
+Ørsta;Norge;222
+Mo i Rana;Norge;222
+Rørvik;Norge;222
+Røros;Norge;222
+Longyearbyen;Norge;222
+Svolvær;Norge;222
+Hadsel;Norge;222
+Leirvik;Norge;222
+Sørkjosen;Norge;222
+Vardø;Norge;222
+Alstahaug;Norge;222
+Vadsø;Norge;222
+Bydgoszcz;Polen;222
+Radom;Polen;222
+Szymany;Polen;222
+Nowe Kramsko;Polen;222
+Ronneby;Sverige;222
+Jönköping;Sverige;222
+Trollhättan;Sverige;222
+Mora;Sverige;222
+Kalmar;Sverige;222
+Halmstad;Sverige;222
+Växjö;Sverige;222
+Gällivare;Sverige;222
+Nyland;Sverige;222
+Lycksele;Sverige;222
+Sundsvall/ Härnösand;Sverige;222
+Örnsköldsvik;Sverige;222
+Skellefteå;Sverige;222
+Vilhelmina;Sverige;222
+Arvidsjaur;Sverige;222
+Östersund;Sverige;222
+Örebro;Sverige;222
+Karlstad;Sverige;222
+Borlange;Sverige;222
+Norrköping;Sverige;222
+Torsby;Sverige;222
+Ängelholm;Sverige;222
+Wurster Nordseeküste;Tyskland;222
+Laage;Tyskland;222
+Hoedspruit;Sydafrika;222
+Margate;Sydafrika;222
+Mafeking;Sydafrika;222
+Mkuze;Sydafrika;222
+Phalaborwa;Sydafrika;222
+Pietermaritzburg;Sydafrika;222
+Richards Bay;Sydafrika;222
+Sishen;Sydafrika;222
+Skukuza;Sydafrika;222
+Upington;Sydafrika;222
+Mthatha;Sydafrika;222
+Mengomeyén;Ækvatorialguinea;222
+Cat Hill;Sankt Helena;222
+Jamestown;Sankt Helena;222
+Port Mathurin;Mauritius;222
+Maroua;Cameroun;222
+N'Gaoundéré;Cameroun;222
+Ouani;Comorerne;222
+Vohilava;Madagaskar;222
+Morondava;Madagaskar;222
+Antisiranana;Madagaskar;222
+Besalampy;Madagaskar;222
+Maroantsetra;Madagaskar;222
+Sambava;Madagaskar;222
+Tôlanaro;Madagaskar;222
+Mananjary;Madagaskar;222
+Toliara;Madagaskar;222
+Mbanza Congo;Angola;222
+Cabinda;Angola;222
+Catumbela;Angola;222
+Chitato;Angola;222
+Ngiva;Angola;222
+Huambo;Angola;222
+Malanje;Angola;222
+Menongue;Angola;222
+Moçâmedes;Angola;222
+Negage;Angola;222
+Soyo;Angola;222
+Lubango;Angola;222
+Oyem;Gabon;222
+Makokou;Gabon;222
+São Tomé & Príncipe;São Tomé og Príncipe;222
+Chimoio;Mozambique;222
+Inhambane;Mozambique;222
+Lichinga;Mozambique;222
+Nacala;Mozambique;222
+Pemba;Mozambique;222
+Quelimane;Mozambique;222
+Vilanculo;Mozambique;222
+Praslin Island;Seychellerne;222
+Abeche;Tchad;222
+Kariba;Zimbabwe;222
+Mpacha;Namibia;222
+Luderitz;Namibia;222
+Ondangwa;Namibia;222
+Oranjemund;Namibia;222
+Rundu;Namibia;222
+Bandundu;DR Congo;222
+Kikwit;DR Congo;222
+Mbandaka;DR Congo;222
+Gbadolite;DR Congo;222
+Gemena;DR Congo;222
+Isiro;DR Congo;222
+Bunia;DR Congo;222
+Kindu;DR Congo;222
+Kolwezi;DR Congo;222
+Kalemie;DR Congo;222
+Kananga;DR Congo;222
+Mbuji Mayi;DR Congo;222
+Gao;Mali;222
+Kayes;Mali;222
+Sévaré;Mali;222
+El Hierro Island;Spanien;222
+Sta Cruz de la Palma, La Palma Island;Spanien;222
+Melilla;Spanien;222
+Qaqortoq;Grønland;222
+Greenville;USA;222
+Tan Tan;Marokko;222
+Errachidia;Marokko;222
+Smara;Vestsahara;222
+Essaouira;Marokko;222
+Ziguinchor;Senegal;222
+Cap Skirring;Senegal;222
+Zouérate;Mauretanien;222
+Vila do Maio;Kap Verde;222
+Preguiça;Kap Verde;222
+Arba Minch;Etiopien;222
+Axum;Etiopien;222
+Bahir Dar;Etiopien;222
+Gambela;Etiopien;222
+Azezo;Etiopien;222
+Gode;Etiopien;222
+Jinka;Etiopien;222
+Jimma;Etiopien;222
+Kebri Dahar;Etiopien;222
+Mekele;Etiopien;222
+Asosa;Etiopien;222
+Gitega;Burundi;222
+Berbera;Somalia;222
+Abu Simbel;Egypten;222
+New Cairo;Egypten;222
+Taba;Egypten;222
+Asmara;Eritrea;222
+Ol Tukai;Kenya;222
+Lamu;Kenya;222
+Malindi;Kenya;222
+Serena;Kenya;222
+Gathiuru;Kenya;222
+Wajir;Kenya;222
+Ghat;Libyen;222
+Kufra;Libyen;222
+Sabha;Libyen;222
+Ghadames;Libyen;222
+Kamembe;Rwanda;222
+Dongola;Sudan;222
+El Fasher;Sudan;222
+Kassala;Sudan;222
+Nyala;Sudan;222
+El-Obeid;Sudan;222
+Malakal;Sydsudan;222
+Wau;Sydsudan;222
+Dodoma;Tanzania;222
+Mbeya;Tanzania;222
+Mtwara;Tanzania;222
+Tanga;Tanzania;222
+Arua;Uganda;222
+Gulu;Uganda;222
+Soroti;Uganda;222
+Kediri;Indonesien;222
+Bilogai;Indonesien;222
+Faizabad;Indien;222
+Chipi;Indien;222
+Hollongi;Indien;222
+Ambikapur;Indien;222
+Boulder City;USA;222
+Allentown/Bethlehem;USA;222
+Abilene;USA;222
+Nantucket;USA;222
+Waco;USA;222
+Arcata/Eureka;USA;222
+Atlantic City;USA;222
+Fort Worth;USA;222
+Augusta;USA;222
+Alliance;USA;222
+Akron;USA;222
+Waterloo;USA;222
+Alamosa;USA;222
+Walla Walla;USA;222
+Amarillo;USA;222
+Altoona;USA;222
+Alpena;USA;222
+Watertown;USA;222
+Aspen;USA;222
+Appleton;USA;222
+Asheville;USA;222
+Wilkes-Barre/Scranton;USA;222
+Kalamazoo;USA;222
+Branson;USA;222
+Bridgeport;USA;222
+Bedford;USA;222
+Bradford;USA;222
+Scottsbluff;USA;222
+Bakersfield;USA;222
+Mobile;USA;222
+Binghamton;USA;222
+Bangor;USA;222
+Bar Harbor;USA;222
+Bishop;USA;222
+Billings;USA;222
+Bismarck;USA;222
+Beaver;USA;222
+Bellingham;USA;222
+Belleville;USA;222
+Bloomington/Normal;USA;222
+Beaumont/Port Arthur;USA;222
+Brunswick;USA;222
+Brainerd;USA;222
+Burlington;USA;222
+Brownsville;USA;222
+Butte;USA;222
+Baton Rouge;USA;222
+Bozeman;USA;222
+Columbia;USA;222
+Concord;USA;222
+Cedar City;USA;222
+Chadron;USA;222
+Crescent City;USA;222
+Cortez;USA;222
+Cape Girardeau;USA;222
+Chattanooga;USA;222
+Charlottesville;USA;222
+Cedar Rapids;USA;222
+Kincheloe;USA;222
+College Station;USA;222
+Savoy;USA;222
+Hancock;USA;222
+Carlsbad;USA;222
+Moab;USA;222
+Cody;USA;222
+Casper;USA;222
+Corpus Christi;USA;222
+Clovis;USA;222
+Mosinee;USA;222
+Cheyenne;USA;222
+Daytona Beach;USA;222
+Dayton;USA;222
+Dubuque;USA;222
+Dodge City;USA;222
+Decatur;USA;222
+Dothan;USA;222
+Dickinson;USA;222
+Duluth;USA;222
+Dover;USA;222
+Durango;USA;222
+Destin;USA;222
+Dubois;USA;222
+Devils Lake;USA;222
+Kearney;USA;222
+Wenatchee;USA;222
+Eau Claire;USA;222
+Panama City Beach;USA;222
+Eagle;USA;222
+Elko;USA;222
+El Dorado;USA;222
+Elmira/Corning;USA;222
+Erie;USA;222
+Escanaba;USA;222
+Eugene;USA;222
+Evansville;USA;222
+New Bedford;USA;222
+New Bern;USA;222
+Key West;USA;222
+Fargo;USA;222
+Fayetteville;USA;222
+Flagstaff;USA;222
+Flint;USA;222
+Fort Dodge;USA;222
+Sioux Falls;USA;222
+Fort Wayne;USA;222
+Gillette;USA;222
+Garden City;USA;222
+Grand Canyon - Tusayan;USA;222
+Glendive;USA;222
+Longview;USA;222
+Grand Junction;USA;222
+Gainesville;USA;222
+Kalispell;USA;222
+Gulfport;USA;222
+Green Bay;USA;222
+Grand Island;USA;222
+Fort Cavazos;USA;222
+Greenville/Greer/Spartanburg;USA;222
+Great Falls;USA;222
+Columbus/W Point/Starkville;USA;222
+Gunnison;USA;222
+Gallup;USA;222
+Gary;USA;222
+Hayden;USA;222
+Hagerstown;USA;222
+Hawthorne;USA;222
+Hibbing;USA;222
+Ogden;USA;222
+Lake Havasu City;USA;222
+Helena;USA;222
+Hobbs;USA;222
+Hot Springs;USA;222
+White Plains;USA;222
+Harlingen;USA;222
+Harrison;USA;222
+Huntsville;USA;222
+Huntington;USA;222
+New Haven;USA;222
+Havre;USA;222
+Hilton Head Island;USA;222
+Hyannis;USA;222
+Hays;USA;222
+Wichita;USA;222
+Niagara Falls;USA;222
+Idaho Falls;USA;222
+Wilmington;USA;222
+Kingsford;USA;222
+International Falls;USA;222
+Imperial;USA;222
+Williamsport;USA;222
+Kirksville;USA;222
+Islip;USA;222
+Ithaca;USA;222
+Mesa;USA;222
+Jackson;USA;222
+Jonesboro;USA;222
+Joplin;USA;222
+Johnstown;USA;222
+West Lafayette;USA;222
+Lakeland;USA;222
+Lansing;USA;222
+Laramie;USA;222
+Lawton;USA;222
+Lubbock;USA;222
+Latrobe;USA;222
+North Platte;USA;222
+Liberal;USA;222
+Lake Charles;USA;222
+Lebanon;USA;222
+Lexington;USA;222
+Lafayette;USA;222
+Little Rock;USA;222
+Lincoln;USA;222
+Lancaster;USA;222
+Laredo;USA;222
+Las Cruces;USA;222
+La Crosse;USA;222
+Cincinnati;USA;222
+Lewisburg;USA;222
+Lewiston;USA;222
+Lynchburg;USA;222
+Midland;USA;222
+Freeland;USA;222
+Merced;USA;222
+McCook;USA;222
+Macon;USA;222
+Mason City;USA;222
+Harrisburg;USA;222
+Meridian;USA;222
+McAllen;USA;222
+Medford;USA;222
+Michigan City;USA;222
+Montgomery;USA;222
+Morgantown;USA;222
+Manhattan;USA;222
+Minot;USA;222
+Muskegon;USA;222
+Moline;USA;222
+Monroe;USA;222
+Mammoth Lakes;USA;222
+Monterey;USA;222
+Muscle Shoals;USA;222
+Madison;USA;222
+Missoula;USA;222
+Massena;USA;222
+Montrose;USA;222
+Marion;USA;222
+Mineral Wells;USA;222
+McCall;USA;222
+Yuma;USA;222
+Richlands;USA;222
+Ogdensburg;USA;222
+Wolf Point;USA;222
+Olympia;USA;222
+Newport;USA;222
+Worcester;USA;222
+North Bend;USA;222
+Owensboro;USA;222
+Ocean City;USA;222
+Everett;USA;222
+Paducah;USA;222
+Plattsburgh;USA;222
+Pendleton;USA;222
+Page;USA;222
+Newport News;USA;222
+Peoria;USA;222
+Moselle;USA;222
+Pocatello;USA;222
+Pierre;USA;222
+Parkersburg (Williamstown);USA;222
+Pellston;USA;222
+Presque Isle;USA;222
+Prescott;USA;222
+Pasco;USA;222
+Portsmouth;USA;222
+Pueblo;USA;222
+Pullman;USA;222
+Provo;USA;222
+Rapid City;USA;222
+Redding;USA;222
+Redmond;USA;222
+Chicago/Rockford;USA;222
+Rhinelander;USA;222
+Riverton;USA;222
+Rockland;USA;222
+Rock Springs;USA;222
+Roanoke;USA;222
+Roswell;USA;222
+Rutland;USA;222
+Santa Fe;USA;222
+Gwinn;USA;222
+Santa Barbara;USA;222
+South Bend;USA;222
+San Luis Obispo;USA;222
+Salisbury;USA;222
+Stockton;USA;222
+Sidney;USA;222
+Springfield;USA;222
+St Augustine;USA;222
+St George;USA;222
+Weyers Cave;USA;222
+Sheridan;USA;222
+Shreveport;USA;222
+San Angelo;USA;222
+Taos;USA;222
+Salem;USA;222
+Saranac Lake;USA;222
+Salina;USA;222
+Salmon;USA;222
+Santa Maria;USA;222
+Show Low;USA;222
+Wichita Falls;USA;222
+San Carlos;USA;222
+Saint Cloud;USA;222
+Santa Rosa;USA;222
+Hailey;USA;222
+Sioux City;USA;222
+Silver City;USA;222
+Newburgh;USA;222
+Stillwater;USA;222
+Fort Leonard Wood;USA;222
+Tacoma;USA;222
+Teterboro;USA;222
+Telluride;USA;222
+Tallahassee;USA;222
+Toledo;USA;222
+Blountville;USA;222
+Truckee;USA;222
+Ewing Township;USA;222
+Tupelo;USA;222
+Traverse City;USA;222
+Thief River Falls;USA;222
+Twin Falls;USA;222
+Texarkana;USA;222
+Tyler;USA;222
+Quincy;USA;222
+State College;USA;222
+Valdosta;USA;222
+Vernal;USA;222
+Valparaiso;USA;222
+Vero Beach;USA;222
+Westerly;USA;222
+West Yellowstone;USA;222
+Fayetteville/Springdale/Rogers;USA;222
+Williston;USA;222
+Yakima;USA;222
+Ton Phueng;Laos;222
+Lefkoniko (Geçitkale);Cypern;222
+Osijek(Klisa);Kroatien;222
+Gornji Humac;Kroatien;222
+Almería;Spanien;222
+Badajoz;Spanien;222
+Castellón de la Plana;Spanien;222
+Culleredo;Spanien;222
+Lleida;Spanien;222
+Granada;Spanien;222
+Jerez de la Frontera;Spanien;222
+La Virgen del Camino;Spanien;222
+Pamplona;Spanien;222
+Salamanca;Spanien;222
+Hondarribia;Spanien;222
+La Seu d'Urgell Pyrenees and Andorra;Spanien;222
+Valladolid;Spanien;222
+Alava;Spanien;222
+Vigo;Spanien;222
+Santander;Spanien;222
+Bergerac;Frankrig;222
+La Rochelle;Frankrig;222
+Poitiers/Biard;Frankrig;222
+Limoges/Bellegarde;Frankrig;222
+Pau/Pyrénées (Uzein);Frankrig;222
+Tarbes/Lourdes/Pyrénées;Frankrig;222
+Biarritz;Frankrig;222
+Castres;Frankrig;222
+Rodez/Marcillac;Frankrig;222
+Dole;Frankrig;222
+Goin;Frankrig;222
+Calvi;Frankrig;222
+Ajaccio;Frankrig;222
+Chambéry;Frankrig;222
+Annecy;Frankrig;222
+Grenoble;Frankrig;222
+Aurillac;Frankrig;222
+Carcassonne;Frankrig;222
+Perpignan/Rivesaltes;Frankrig;222
+Béziers;Frankrig;222
+Avignon;Frankrig;222
+Chalons en Champagne;Frankrig;222
+Tours, Indre-et-Loire;Frankrig;222
+Dinard;Frankrig;222
+Deauville;Frankrig;222
+Lorient/Lann/Bihoué;Frankrig;222
+Caen;Frankrig;222
+Le Mans, Sarthe;Frankrig;222
+Saint-Jacques-de-la-Lande, Ille-et-Vilaine;Frankrig;222
+Saint-Nazaire/Montoir;Frankrig;222
+Dijon;Frankrig;222
+Brive;Frankrig;222
+Hyères, Var;Frankrig;222
+Nîmes/Garons;Frankrig;222
+Alexandroupolis;Grækenland;222
+Nea Anchialos;Grækenland;222
+Chios Island;Grækenland;222
+Ioannina;Grækenland;222
+Kefallinia Island;Grækenland;222
+Kalamata;Grækenland;222
+Karpathos Island;Grækenland;222
+Kozani;Grækenland;222
+Mykonos;Grækenland;222
+Mytilene;Grækenland;222
+Preveza;Grækenland;222
+Patras;Grækenland;222
+Skiathos;Grækenland;222
+Samos Island;Grækenland;222
+Crete Island;Grækenland;222
+Zakynthos;Grækenland;222
+Sármellék;Ungarn;222
+Isola di Capo Rizzuto (KR);Italien;222
+Foggia (FG);Italien;222
+Comiso;Italien;222
+Lampedusa;Italien;222
+Pantelleria (TP);Italien;222
+Reggio Calabria;Italien;222
+Trapani (TP);Italien;222
+Alghero;Italien;222
+Parma (PR);Italien;222
+Levaldigi (CN);Italien;222
+Bolzano (BZ);Italien;222
+Forlì (FC);Italien;222
+Montichiari (BS);Italien;222
+Falconara Marittima (AN);Italien;222
+Salerno;Italien;222
+Campo nell'Elba (LI);Italien;222
+Maribor;Slovenien;222
+Brno;Tjekkiet;222
+Haifa;Israel;222
+Vila do Porto;Portugal;222
+Bragança;Portugal;222
+Cascais;Portugal;222
+Santa Cruz das Flores;Portugal;222
+Santa Cruz da Graciosa;Portugal;222
+Horta;Portugal;222
+Praia da Vitória;Portugal;222
+Pico Island;Portugal;222
+Portimão;Portugal;222
+Vila Baleira;Portugal;222
+Velas;Portugal;222
+Vila Real;Portugal;222
+Viseu;Portugal;222
+Arad;Rumænien;222
+Tăuții-Măgherăuș;Rumænien;222
+Satu Mare;Rumænien;222
+Recea;Rumænien;222
+Agno;Schweiz;222
+Bern;Schweiz;222
+St. Gallen;Schweiz;222
+Zonguldak;Tyrkiet;222
+Malatya;Tyrkiet;222
+Tokat;Tyrkiet;222
+Denizli;Tyrkiet;222
+Balıkesir;Tyrkiet;222
+Çanakkale;Tyrkiet;222
+Yenişehir;Tyrkiet;222
+Çorlu;Tyrkiet;222
+Elazığ;Tyrkiet;222
+Ordu;Tyrkiet;222
+Diyarbakır;Tyrkiet;222
+Erzincan;Tyrkiet;222
+Erzurum;Tyrkiet;222
+Kars;Tyrkiet;222
+Trabzon;Tyrkiet;222
+Van;Tyrkiet;222
+Batman;Tyrkiet;222
+Muş;Tyrkiet;222
+Sinop;Tyrkiet;222
+Kahramanmaraş;Tyrkiet;222
+Ağrı;Tyrkiet;222
+Adıyaman;Tyrkiet;222
+Mardin;Tyrkiet;222
+Iğdır;Tyrkiet;222
+Şırnak;Tyrkiet;222
+Hakkari;Tyrkiet;222
+Antakya;Tyrkiet;222
+Isparta;Tyrkiet;222
+Gazipaşa;Tyrkiet;222
+Samsun;Tyrkiet;222
+Kraljevo;Serbien;222
+Tivat;Montenegro;222
+Nanchong (Langzhong);Kina;222
+Košice;Slovakiet;222
+Sliač;Slovakiet;222
+Poprad;Slovakiet;222
+Cockburn Town;Turks- og Caicosøerne;222
+North Caicos;Turks- og Caicosøerne;222
+South Caicos;Turks- og Caicosøerne;222
+Barahona;Den Dominikanske Republik;222
+Samana;Den Dominikanske Republik;222
+La Isabela;Den Dominikanske Republik;222
+Puerto Plata;Den Dominikanske Republik;222
+Puerto Barrios;Guatemala;222
+Retalhuleu;Guatemala;222
+San Benito;Guatemala;222
+La Ceiba;Honduras;222
+Guanaja;Honduras;222
+Tegucigalpa;Honduras;222
+Boscobel;Jamaica;222
+Tinson Pen;Jamaica;222
+Ciudad del Carmen;Mexico;222
+Chetumal;Mexico;222
+Ciudad Obregón;Mexico;222
+Campeche;Mexico;222
+Ciudad Victoria;Mexico;222
+Tepic;Mexico;222
+Guaymas;Mexico;222
+Colima;Mexico;222
+Saltillo;Mexico;222
+Ixtepec;Mexico;222
+Los Mochis;Mexico;222
+La Paz;Mexico;222
+Matamoros;Mexico;222
+Mexicali;Mexico;222
+Cosoleacaque;Mexico;222
+Nuevo Laredo;Mexico;222
+Poza Rica;Mexico;222
+Piedras Negras;Mexico;222
+Uruapan;Mexico;222
+Puerto Escondido;Mexico;222
+Reynosa;Mexico;222
+Cabo San Lucas;Mexico;222
+San Luis Potosí;Mexico;222
+Torreón;Mexico;222
+Tuxtla Gutiérrez;Mexico;222
+Ciudad Madero;Mexico;222
+Tapachula;Mexico;222
+Zacatecas;Mexico;222
+Manzanillo;Mexico;222
+Bluefields;Nicaragua;222
+Puerto Cabezas;Nicaragua;222
+Isla Colón;Panama;222
+Chitré;Panama;222
+Changuinola;Panama;222
+David;Panama;222
+Colón;Panama;222
+Albrook;Panama;222
+La Fortuna;Costa Rica;222
+Golfito;Costa Rica;222
+Limón;Costa Rica;222
+Nicoya;Costa Rica;222
+Puerto Jimenez;Costa Rica;222
+Quepos;Costa Rica;222
+Les Cayes;Haiti;222
+Carrefour Sanon;Haiti;222
+Baracoa;Cuba;222
+Bayamo;Cuba;222
+Cayo Coco;Cuba;222
+Cienfuegos;Cuba;222
+Cayo Largo del Sur;Cuba;222
+Santa Marta;Colombia;222
+Nueva Gerona;Cuba;222
+Trinidad;Cuba;222
+Las Tunas;Cuba;222
+West End;Caymanøerne;222
+Andros Town;Bahamas;222
+Andros;Bahamas;222
+Marsh Harbour;Bahamas;222
+Andros Island;Bahamas;222
+Spring Point;Bahamas;222
+Treasure Cay;Bahamas;222
+Chub Cay;Bahamas;222
+South Bimini;Bahamas;222
+Arthur's Town;Bahamas;222
+Cat Island;Bahamas;222
+Colonel Hill;Bahamas;222
+Moss Town;Bahamas;222
+North Eleuthera;Bahamas;222
+Governor's Harbour;Bahamas;222
+Rock Sound;Bahamas;222
+Matthew Town;Bahamas;222
+Deadman's Cay;Bahamas;222
+Stella Maris;Bahamas;222
+Abraham Bay Settlement;Bahamas;222
+Placencia;Belize;222
+Labasa;Fiji;222
+Lifuka;Tonga;222
+Funafuti;Tuvalu;222
+Alofi;Niue;222
+Ninglang;Kina;222
+Anaa;Fransk Polynesien;222
+Fangatau;Fransk Polynesien;222
+Tuherahera;Fransk Polynesien;222
+Raitahiti;Fransk Polynesien;222
+Makemo;Fransk Polynesien;222
+Ahe Atoll;Fransk Polynesien;222
+Nuku Hiva;Fransk Polynesien;222
+Hiva Oa Island;Fransk Polynesien;222
+Motu Mute;Fransk Polynesien;222
+Fare;Fransk Polynesien;222
+Moorea-Maiao;Fransk Polynesien;222
+Otepa;Fransk Polynesien;222
+Uturoa;Fransk Polynesien;222
+Luganville;Vanuatu;222
+Tanna Island;Vanuatu;222
+Tiga;Ny Kaledonien;222
+Koné;Ny Kaledonien;222
+Île des Pins;Ny Kaledonien;222
+Lifou;Ny Kaledonien;222
+Nouméa;Ny Kaledonien;222
+Maré;Ny Kaledonien;222
+Touho;Ny Kaledonien;222
+Ouvéa;Ny Kaledonien;222
+Taupo;New Zealand;222
+Te One;New Zealand;222
+Dunedin;New Zealand;222
+Gisborne;New Zealand;222
+Kerikeri;New Zealand;222
+Awanui;New Zealand;222
+New Plymouth;New Zealand;222
+Napier;New Zealand;222
+Nelson;New Zealand;222
+Invercargill;New Zealand;222
+Palmerston North;New Zealand;222
+Rotorua;New Zealand;222
+Tauranga;New Zealand;222
+Blenheim;New Zealand;222
+Wanaka;New Zealand;222
+Whakatāne;New Zealand;222
+Whangarei;New Zealand;222
+Westport;New Zealand;222
+Wanganui;New Zealand;222
+Khost;Afghanistan;222
+Maymana;Afghanistan;222
+Al-Baha;Saudi-Arabien;222
+Bisha;Saudi-Arabien;222
+Dawadmi;Saudi-Arabien;222
+Jizan;Saudi-Arabien;222
+Gurayat;Saudi-Arabien;222
+King Khaled Military City;Saudi-Arabien;222
+Najran;Saudi-Arabien;222
+Rafha;Saudi-Arabien;222
+Arar;Saudi-Arabien;222
+Sharurah;Saudi-Arabien;222
+Turaif;Saudi-Arabien;222
+Wadi Al Dawasir;Saudi-Arabien;222
+Al Wajh;Saudi-Arabien;222
+Dezful;Iran;222
+Gachsaran;Iran;222
+Mahshahr;Iran;222
+Abu Musa;Iran;222
+Bushehr;Iran;222
+Bandar Lengeh;Iran;222
+Khiyaroo;Iran;222
+Khark;Iran;222
+Kermanshah;Iran;222
+Kashan;Iran;222
+Rasht;Iran;222
+Hamadan;Iran;222
+Bam;Iran;222
+Rafsanjan;Iran;222
+Bojnord;Iran;222
+Sabzevar;Iran;222
+Nowshahr;Iran;222
+Ramsar;Iran;222
+Sari;Iran;222
+Lar;Iran;222
+Lamerd;Iran;222
+Ardabil;Iran;222
+Urmia;Iran;222
+Yazd;Iran;222
+Konarak;Iran;222
+Khasab;Oman;222
+Bahawalpur;Pakistan;222
+Chitral;Pakistan;222
+Dera Ghazi Khan;Pakistan;222
+Gilgit;Pakistan;222
+Nawabashah;Pakistan;222
+Rahim Yar Khan;Pakistan;222
+Sukkur;Pakistan;222
+Fort Sandeman;Pakistan;222
+Sulaymaniyah;Irak;222
+Qamishli;Syrien;222
+Latakia;Syrien;222
+Al Ghaydah;Yemen;222
+Mori;Yemen;222
+Taiz;Yemen;222
+Barter Island;USA;222
+Bethel;USA;222
+Utqiaġvik;USA;222
+Cold Bay;USA;222
+Cordova;USA;222
+Deering;USA;222
+Adak;USA;222
+Dillingham;USA;222
+Kodiak;USA;222
+Unalaska;USA;222
+Fairbanks;USA;222
+Emmonak;USA;222
+Kenai;USA;222
+Ambler;USA;222
+Galena;USA;222
+Gulkana;USA;222
+Gambell;USA;222
+Gustavus;USA;222
+Holy Cross;USA;222
+Huslia;USA;222
+Haines;USA;222
+Homer;USA;222
+Egegik;USA;222
+Kiana;USA;222
+Iliamna;USA;222
+Utopia Creek;USA;222
+Juneau;USA;222
+King Salmon;USA;222
+Anaktuvuk Pass;USA;222
+Ketchikan;USA;222
+Klawock;USA;222
+Cape Lisburne;USA;222
+McGrath;USA;222
+Mekoryuk;USA;222
+Aniak;USA;222
+Anvik;USA;222
+Nome;USA;222
+Northway;USA;222
+Kotzebue;USA;222
+Petersburg;USA;222
+Port Heiden;USA;222
+Platinum;USA;222
+Nuiqsut;USA;222
+Arctic Village;USA;222
+Ruby;USA;222
+Savoonga;USA;222
+Deadhorse;USA;222
+Sand Point;USA;222
+Sitka;USA;222
+St Paul Island;USA;222
+Atqasuk;USA;222
+Unalakleet;USA;222
+Valdez;USA;222
+Wrangell;USA;222
+Wainwright;USA;222
+Yakutat;USA;222
+Fort Yukon;USA;222
+I Fadang, Saipan;Nordmarianerne;222
+Tinian Island;Nordmarianerne;222
+Hana;USA;222
+Lahaina;USA;222
+Kaunakakai;USA;222
+Waimea (Kamuela);USA;222
+Lanai City;USA;222
+Hilo;USA;222
+Kwajalein;Marshalløerne;222
+Point Lay;USA;222
+Pohnpei Island;Mikronesien;222
+Wake Island;USA's mindre øer;222
+Shang-I;Taiwan;222
+Matsu (Nangan);Taiwan;222
+Taitung City;Taiwan;222
+Shuishang;Taiwan;222
+Orchid Island;Taiwan;222
+Matsu (Beigan);Taiwan;222
+Matsumoto;Japan;222
+Shirahama;Japan;222
+Toyooka;Japan;222
+Obihiro;Japan;222
+Kushiro;Japan;222
+Ōzora;Japan;222
+Nakashibetsu;Japan;222
+Wakkanai;Japan;222
+Amakusa;Japan;222
+Iki;Japan;222
+Ube;Japan;222
+Tsushima;Japan;222
+Monbetsu;Japan;222
+Higashikagura;Japan;222
+Okushiri Island;Japan;222
+Rishiri;Japan;222
+Yakushima;Japan;222
+Goto;Japan;222
+Tanegashima;Japan;222
+Oita;Japan;222
+Amami;Japan;222
+Wadomari;Japan;222
+Kikai;Japan;222
+Amagi;Japan;222
+Okinoshima;Japan;222
+Toyama;Japan;222
+Wajima;Japan;222
+Izumo;Japan;222
+Yonago;Japan;222
+Iwakuni;Japan;222
+Tottori;Japan;222
+Masuda;Japan;222
+Higashine;Japan;222
+Sado;Japan;222
+Sukagawa;Japan;222
+Hanamaki;Japan;222
+Akita;Japan;222
+Misawa;Japan;222
+Kitaakita;Japan;222
+Shonai;Japan;222
+Hachijojima;Japan;222
+Izu Oshima;Japan;222
+Miyakejima;Japan;222
+Gwangju;Sydkorea;222
+Gunsan;Sydkorea;222
+Yeosu;Sydkorea;222
+Wonju;Sydkorea;222
+Sacheon;Sydkorea;222
+Ulsan;Sydkorea;222
+Pohang;Sydkorea;222
+Ishigaki;Japan;222
+Kumejima;Japan;222
+Minamidaito;Japan;222
+Miyakojima;Japan;222
+Kitadaitōjima;Japan;222
+Tarama;Japan;222
+Yoron;Japan;222
+Yonaguni;Japan;222
+Datu Odin Sinsuat;Filippinerne;222
+Butuan;Filippinerne;222
+Dipolog;Filippinerne;222
+Mambajao;Filippinerne;222
+Jolo;Filippinerne;222
+Bongao;Filippinerne;222
+Ozamiz;Filippinerne;222
+Pagadian;Filippinerne;222
+Surigao City;Filippinerne;222
+Panglao;Filippinerne;222
+Baguio;Filippinerne;222
+Naga;Filippinerne;222
+Basco;Filippinerne;222
+Tuguegarao City;Filippinerne;222
+Virac;Filippinerne;222
+Cauayan City;Filippinerne;222
+Tacloban City;Filippinerne;222
+Calbayog City;Filippinerne;222
+Dumaguete City;Filippinerne;222
+Caticlan;Filippinerne;222
+Catarman;Filippinerne;222
+Masbate;Filippinerne;222
+Roxas City;Filippinerne;222
+Tablas Island;Filippinerne;222
+Coron;Filippinerne;222
+Yeysk;Rusland;222
+Parana;Argentina;222
+San Rafael;Argentina;222
+Catamarca;Argentina;222
+Santiago del Estero;Argentina;222
+La Rioja;Argentina;222
+Termas de Río Hondo;Argentina;222
+San Luis;Argentina;222
+Corrientes;Argentina;222
+Formosa;Argentina;222
+Puerto Iguazu;Argentina;222
+Posadas;Argentina;222
+Esquel;Argentina;222
+Las Heras;Argentina;222
+Rawson;Argentina;222
+Viedma / Carmen de Patagones;Argentina;222
+Puerto Madryn;Argentina;222
+Puerto Deseado;Argentina;222
+Rio Grande;Argentina;222
+Ushuaia;Argentina;222
+Perito Moreno;Argentina;222
+Bahía Blanca;Argentina;222
+Santa Teresita;Argentina;222
+Mar del Plata;Argentina;222
+Necochea;Argentina;222
+Chapelco/San Martin de los Andes;Argentina;222
+Bauru;Brasilien;222
+Araraquara;Brasilien;222
+Aracaju;Brasilien;222
+Alta Floresta;Brasilien;222
+Araçatuba;Brasilien;222
+Araxá;Brasilien;222
+Cascavel;Brasilien;222
+Campo Grande;Brasilien;222
+Chapecó;Brasilien;222
+Parauapebas;Brasilien;222
+Criciúma;Brasilien;222
+Campos dos Goytacazes;Brasilien;222
+Corumbá;Brasilien;222
+Caxias Do Sul;Brasilien;222
+Cruzeiro Do Sul;Brasilien;222
+Presidente Prudente;Brasilien;222
+Fernando de Noronha;Brasilien;222
+Governador Valadares;Brasilien;222
+Altamira;Brasilien;222
+Itaituba;Brasilien;222
+Ilhéus;Brasilien;222
+Ipatinga;Brasilien;222
+Imperatriz;Brasilien;222
+Cruz;Brasilien;222
+Juiz de Fora;Brasilien;222
+Joinville;Brasilien;222
+Campina Grande;Brasilien;222
+Lages;Brasilien;222
+Londrina;Brasilien;222
+Marabá;Brasilien;222
+Maringá;Brasilien;222
+Montes Claros;Brasilien;222
+Marília;Brasilien;222
+Macapá;Brasilien;222
+Mossoró;Brasilien;222
+Manicoré;Brasilien;222
+Santo Ângelo;Brasilien;222
+Parnaíba;Brasilien;222
+Passo Fundo;Brasilien;222
+Ponta Grossa;Brasilien;222
+Palmas;Brasilien;222
+Pelotas;Brasilien;222
+Petrolina;Brasilien;222
+Ponta Porã;Brasilien;222
+Rondonópolis;Brasilien;222
+Ribeirão Preto;Brasilien;222
+São José Dos Campos;Brasilien;222
+Santarém;Brasilien;222
+São José do Rio Preto;Brasilien;222
+Oriximiná;Brasilien;222
+Teresina;Brasilien;222
+Tefé;Brasilien;222
+Tabatinga;Brasilien;222
+Tucuruí;Brasilien;222
+São Gabriel da Cachoeira;Brasilien;222
+Paulo Afonso;Brasilien;222
+Uruguaiana;Brasilien;222
+Uberlândia;Brasilien;222
+Uberaba;Brasilien;222
+Vilhena;Brasilien;222
+Arica;Chile;222
+Copiapo;Chile;222
+Balmaceda;Chile;222
+Calama;Chile;222
+El Salvador;Chile;222
+Osorno;Chile;222
+Puerto Natales;Chile;222
+La Serena-Coquimbo;Chile;222
+Valdivia;Chile;222
+Feira de Santana;Brasilien;222
+Coca;Ecuador;222
+Cuenca;Ecuador;222
+Isla Baltra;Ecuador;222
+Latacunga;Ecuador;222
+Macas;Ecuador;222
+Manta;Ecuador;222
+Tulcán;Ecuador;222
+Armenia;Colombia;222
+Puerto Asís;Colombia;222
+Bucaramanga;Colombia;222
+Bahía Solano;Colombia;222
+Buenaventura;Colombia;222
+Cúcuta;Colombia;222
+Tumaco;Colombia;222
+Barrancabermeja;Colombia;222
+Florencia;Colombia;222
+Guapi;Colombia;222
+Ibagué;Colombia;222
+Ipiales;Colombia;222
+Carepa;Colombia;222
+Leticia;Colombia;222
+Montería;Colombia;222
+Mitú;Colombia;222
+Manizales;Colombia;222
+Neiva;Colombia;222
+Puerto Carreño;Colombia;222
+Puerto Inírida;Colombia;222
+Pereira;Colombia;222
+Popayán;Colombia;222
+Chachagüí;Colombia;222
+Providencia;Colombia;222
+Riohacha;Colombia;222
+San José Del Guaviare;Colombia;222
+San Vicente Del Caguán;Colombia;222
+Tame;Colombia;222
+Arauca;Colombia;222
+Quibdó;Colombia;222
+Valledupar;Colombia;222
+Villavicencio;Colombia;222
+Yopal;Colombia;222
+Cobija;Bolivia;222
+Guayaramerín;Bolivia;222
+Puerto Suárez;Bolivia;222
+Riberalta;Bolivia;222
+Tarija;Bolivia;222
+Sobral;Brasilien;222
+Maripasoula;Fransk Guyana;222
+Saint-Laurent-du-Maroni;Fransk Guyana;222
+Chimbote;Peru;222
+Ayacucho;Peru;222
+Jaén;Peru;222
+Jauja;Peru;222
+Cajamarca;Peru;222
+Ilo;Peru;222
+Tumbes;Peru;222
+Yurimaguas;Peru;222
+Huánuco;Peru;222
+Chachapoyas;Peru;222
+Tarapoto;Peru;222
+Tacna;Peru;222
+Puerto Maldonado;Peru;222
+Piura;Peru;222
+Talara;Peru;222
+Nazca;Peru;222
+Punta del Este;Uruguay;222
+Rivera/Santana do Livramento;Uruguay;222
+Barinas;Venezuela;222
+Canaima;Venezuela;222
+Carúpano;Venezuela;222
+Coro;Venezuela;222
+Cumaná;Venezuela;222
+Paraguaná;Venezuela;222
+Maturín;Venezuela;222
+San Antonio del Tachira;Venezuela;222
+Santa Elena de Uairén;Venezuela;222
+El Tigre;Venezuela;222
+El Vigía;Venezuela;222
+Valera;Venezuela;222
+Araguaína;Brasilien;222
+Ogle;Guyana;222
+Kaieteur Falls;Guyana;222
+Lethem;Guyana;222
+Canefield;Dominica;222
+Marigot;Dominica;222
+Grand Case;Saint-Martin;222
+Gustavia;Saint-Barthélemy;222
+Grand-Bourg;Guadeloupe;222
+Christiansted;Amerikanske Jomfruøer;222
+Aguadilla;Puerto Rico;222
+Culebra;Puerto Rico;222
+Mayaguez;Puerto Rico;222
+Ponce;Puerto Rico;222
+Ceiba;Puerto Rico;222
+Vieques;Puerto Rico;222
+Castries;Saint Lucia;222
+Zion's Hill;Karibisk Holland;222
+The Valley;Anguilla;222
+Spanish Town;Britiske Jomfruøer;222
+Bequia;Saint Vincent og Grenadinerne;222
+Canouan;Saint Vincent og Grenadinerne;222
+Lovell;Saint Vincent og Grenadinerne;222
+Union Island;Saint Vincent og Grenadinerne;222
+Balkhash;Kasakhstan;222
+Taldykorgan;Kasakhstan;222
+Karakol;Kirgisistan;222
+Gabala;Aserbajdsjan;222
+Lachin;Aserbajdsjan;222
+Neryungri;Rusland;222
+Khonuu;Rusland;222
+Olyokminsk;Rusland;222
+Ust-Nera;Rusland;222
+Vilyuisk;Rusland;222
+Lensk;Rusland;222
+Yakutia;Rusland;222
+Mirny;Rusland;222
+Saskylakh;Rusland;222
+Srednekolymsk;Rusland;222
+Chokurdah;Rusland;222
+Cherskiy;Rusland;222
+Tiksi;Rusland;222
+Zyryanka;Rusland;222
+Zhigansk;Rusland;222
+Kihihi;Uganda;222
+Sukhumi;Georgien;222
+Blagoveschensk;Rusland;222
+Khabarovsk;Rusland;222
+Komsomolsk-on-Amur;Rusland;222
+Anadyr;Rusland;222
+Keperveem;Rusland;222
+Magadan;Rusland;222
+Apapelgino;Rusland;222
+Nikolayevsk-na-Amure Airport;Rusland;222
+Okhotsk;Rusland;222
+Bratsk;Rusland;222
+Ust-Kut;Rusland;222
+Mariupol;Ukraine;222
+Dnipro;Ukraine;222
+Kryvyi Rih;Ukraine;222
+Ivano-Frankivsk;Ukraine;222
+Chernivtsi;Ukraine;222
+Rivne;Ukraine;222
+Kherson;Ukraine;222
+Archangelsk;Rusland;222
+Naryan Mar;Rusland;222
+Amderma;Rusland;222
+Kotlas;Rusland;222
+Pskov;Rusland;222
+Petrozavodsk;Rusland;222
+Cherepovets;Rusland;222
+Velikiy Ustyug;Rusland;222
+Gomel;Hviderusland;222
+Mogilev;Hviderusland;222
+Yeniseysk;Rusland;222
+Severo-Yeniseysk;Rusland;222
+Vanavara;Rusland;222
+Kyzyl;Rusland;222
+Novokuznetsk;Rusland;222
+Khatanga;Rusland;222
+Igarka;Rusland;222
+Krasnyi Kurgan;Rusland;222
+Gelendzhik;Rusland;222
+Nalchik;Rusland;222
+Beslan;Rusland;222
+Sunzha;Rusland;222
+Stavropol;Rusland;222
+Taganrog;Rusland;222
+Elista;Rusland;222
+Sabetta;Rusland;222
+Bovanenkovo;Rusland;222
+Salekhard;Rusland;222
+Khanty-Mansiysk;Rusland;222
+Nyagan;Rusland;222
+Sovetskiy;Rusland;222
+Uray;Rusland;222
+Izhevsk;Rusland;222
+Kirov;Rusland;222
+Nadym;Rusland;222
+Novy Urengoy;Rusland;222
+Kogalym;Rusland;222
+Nefteyugansk;Rusland;222
+Noyabrsk;Rusland;222
+Tobolsk;Rusland;222
+Kurgan;Rusland;222
+Turkmenbaşy;Turkmenistan;222
+Mary;Turkmenistan;222
+Andijan;Usbekistan;222
+Fergana;Usbekistan;222
+Navoi;Usbekistan;222
+Termez;Usbekistan;222
+Zomin;Usbekistan;222
+Kostroma;Rusland;222
+Ivanovo;Rusland;222
+Rybinsk;Rusland;222
+Bryansk;Rusland;222
+Belgorod;Rusland;222
+Kursk;Rusland;222
+Lipetsk;Rusland;222
+Voronezh;Rusland;222
+Ukhta;Rusland;222
+Pechora;Rusland;222
+Usinsk;Rusland;222
+Vorkuta;Rusland;222
+Syktyvkar;Rusland;222
+Bugulma;Rusland;222
+Nizhnekamsk;Rusland;222
+Cheboksary;Rusland;222
+Ulyanovsk;Rusland;222
+Cherdakly;Rusland;222
+Orenburg;Rusland;222
+Orsk;Rusland;222
+Penza;Rusland;222
+Balakovo;Rusland;222
+Rewa;Indien;222
+Gondia;Indien;222
+Aurangabad;Indien;222
+Bhuj;Indien;222
+Belgaum;Indien;222
+Bhavnagar;Indien;222
+Hubballi;Indien;222
+Jabalpur;Indien;222
+Jamnagar;Indien;222
+Kandla;Indien;222
+Khajuraho;Indien;222
+Kolhapur;Indien;222
+Keshod;Indien;222
+Latur;Indien;222
+Nanded;Indien;222
+Porbandar;Indien;222
+Raipur;Indien;222
+Udaipur;Indien;222
+Batticaloa;Sri Lanka;222
+Galle;Sri Lanka;222
+Trincomalee;Sri Lanka;222
+Battambang;Cambodia;222
+Agartala;Indien;222
+Shillong;Indien;222
+Bilaspur;Indien;222
+Durgapur;Indien;222
+Darbhanga;Indien;222
+Gorakhpur;Indien;222
+Gaya;Indien;222
+Jorhat;Indien;222
+Silchar;Indien;222
+Aizawl (Lengpui);Indien;222
+Lilabari;Indien;222
+Dibrugarh;Indien;222
+Dimapur;Indien;222
+Patna;Indien;222
+Ranchi;Indien;222
+Bhawanipatna;Indien;222
+Barisal;Bangladesh;222
+Cox's Bazar;Bangladesh;222
+Jashore (Jessore);Bangladesh;222
+Rajshahi;Bangladesh;222
+Saidpur;Bangladesh;222
+Agra;Indien;222
+Allahabad;Indien;222
+Bhuntar;Indien;222
+Bareilly;Indien;222
+Kanpur;Indien;222
+Dehradun (Jauligrant);Indien;222
+Kangra;Indien;222
+Gwalior;Indien;222
+Jodhpur;Indien;222
+Jammu;Indien;222
+Ajmer (Kishangarh);Indien;222
+Leh;Indien;222
+Moradabad;Indien;222
+Pathankot;Indien;222
+Pantnagar;Indien;222
+Janakpur;Nepal;222
+Lukla;Nepal;222
+Nepalgunj;Nepal;222
+Taplejung;Nepal;222
+Biratnagar;Nepal;222
+Agatti;Indien;222
+Kadapa;Indien;222
+Orvakal;Indien;222
+Madurai;Indien;222
+Mysore;Indien;222
+Puducherry (Pondicherry);Indien;222
+Madhurapudi;Indien;222
+Kadhdhoo;Maldiverne;222
+Huvadhu Atoll;Maldiverne;222
+Maamigili;Maldiverne;222
+Laem Ngop;Thailand;222
+Mae Hong Son;Thailand;222
+Hua Hin;Thailand;222
+Phitsanulok;Thailand;222
+Surat Thani;Thailand;222
+Chumphon;Thailand;222
+Nakhon Si Thammarat;Thailand;222
+Ranong;Thailand;222
+Trang;Thailand;222
+Surin;Thailand;222
+Khon Kaen;Thailand;222
+Buriram;Thailand;222
+Ubon Ratchathani;Thailand;222
+Roi Et;Thailand;222
+Nakhon Phanom;Thailand;222
+Buon Ma Thuot;Vietnam;222
+Ca Mau City;Vietnam;222
+Con Dao;Vietnam;222
+Dien Bien Phu;Vietnam;222
+Dong Hoi;Vietnam;222
+Da Lat;Vietnam;222
+Huế;Vietnam;222
+Quy Nohn;Vietnam;222
+Pleiku;Vietnam;222
+Rach Gia;Vietnam;222
+Tuy Hoa;Vietnam;222
+Van Don;Vietnam;222
+Vinh;Vietnam;222
+Dawei;Myanmar;222
+Heho;Myanmar;222
+Kengtung;Myanmar;222
+Kyaukpyu;Myanmar;222
+Kawthoung;Myanmar;222
+Loikaw;Myanmar;222
+Lashio;Myanmar;222
+Mkeik;Myanmar;222
+Myitkyina;Myanmar;222
+Mong Hsat;Myanmar;222
+Putao;Myanmar;222
+Sittwe;Myanmar;222
+Thandwe;Myanmar;222
+Tachileik;Myanmar;222
+Biak;Indonesien;222
+Timika;Indonesien;222
+Bima;Indonesien;222
+Ternate;Indonesien;222
+Toraja;Indonesien;222
+Palu;Indonesien;222
+Palangkaraya;Indonesien;222
+Cilacap;Indonesien;222
+Oksibil;Indonesien;222
+Merauke;Indonesien;222
+Tanah Merah;Indonesien;222
+Tarakan;Indonesien;222
+Samarinda;Indonesien;222
+Tabukan Utara, Sangihe Islands;Indonesien;222
+Tanta-Tabalong;Indonesien;222
+Langgur;Indonesien;222
+Namniwel;Indonesien;222
+Tanjung Redeb - Borneo Island;Indonesien;222
+Malang;Indonesien;222
+Fakfak;Indonesien;222
+Kaimana;Indonesien;222
+Manokwari;Indonesien;222
+Sorong;Indonesien;222
+Kupang;Indonesien;222
+Wamena;Indonesien;222
+Wangi-wangi Island;Indonesien;222
+Kolaka;Indonesien;222
+Bintulu;Malaysia;222
+Limbang;Malaysia;222
+Mukah;Malaysia;222
+Marudi;Malaysia;222
+Miri;Malaysia;222
+Sibu;Malaysia;222
+Bario;Malaysia;222
+Lahad Datu;Malaysia;222
+Labuan;Malaysia;222
+Sandakan;Malaysia;222
+Tawau;Malaysia;222
+Mulu;Malaysia;222
+Pekanbaru;Indonesien;222
+Dumai;Indonesien;222
+Kertajati;Indonesien;222
+Bandung;Indonesien;222
+Tanjung Pinang-Bintan Island;Indonesien;222
+Bandar Lampung;Indonesien;222
+Gunungsitoli;Indonesien;222
+Sibolga (Pinangsori);Indonesien;222
+Kutacane;Indonesien;222
+Nanga Pinoh-Borneo Island;Indonesien;222
+Ketapang;Indonesien;222
+Ranai-Natuna Besar Island;Indonesien;222
+Putussibau-Borneo Island;Indonesien;222
+Sintang;Indonesien;222
+Pangkal Pinang;Indonesien;222
+Bengkulu;Indonesien;222
+Palembang;Indonesien;222
+Talang Gudang-Sumatra Island;Indonesien;222
+Kuala Pesisir;Indonesien;222
+Takengon;Indonesien;222
+Tioman Island;Malaysia;222
+Alor Satar;Malaysia;222
+Kota Baharu;Malaysia;222
+Kuantan;Malaysia;222
+Malacca;Malaysia;222
+Kuala Terengganu;Malaysia;222
+Suai;Østtimor;222
+Baucau;Østtimor;222
+Seletar;Singapore;222
+Armidale;Australien;222
+Yulara;Australien;222
+Barcaldine;Australien;222
+Alice Springs;Australien;222
+Blackall;Australien;222
+Charleville;Australien;222
+Broken Hill;Australien;222
+Hamilton Island;Australien;222
+Bedourie;Australien;222
+Mount Isa;Australien;222
+Mackay;Australien;222
+Ballina;Australien;222
+Proserpine;Australien;222
+Rockhampton;Australien;222
+Bathurst;Australien;222
+Townsville;Australien;222
+Bundaberg;Australien;222
+Weipa;Australien;222
+Carnarvon;Australien;222
+Coober Pedy;Australien;222
+Cloncurry;Australien;222
+Coffs Harbour;Australien;222
+Coen;Australien;222
+Cooma;Australien;222
+Devonport;Australien;222
+Elcho Island;Australien;222
+Emerald;Australien;222
+Esperance;Australien;222
+Moonyoonooka;Australien;222
+Gladstone;Australien;222
+Groote Eylandt;Australien;222
+Griffith;Australien;222
+Hervey Bay;Australien;222
+Horn;Australien;222
+Mount Hotham;Australien;222
+Kowanyama;Australien;222
+Leonora;Australien;222
+Lockhart River;Australien;222
+Lismore;Australien;222
+Longreach;Australien;222
+East Albury;Australien;222
+Essendon Fields;Australien;222
+Merimbula;Australien;222
+Maningrida;Australien;222
+Mildura;Australien;222
+Launceston (Western Junction);Australien;222
+Moree;Australien;222
+Moranbah;Australien;222
+Moruya;Australien;222
+Mount Gambier;Australien;222
+Narrandera;Australien;222
+Narrabri;Australien;222
+Normanton;Australien;222
+Newman;Australien;222
+Paraburdoo;Australien;222
+Nhulunbuy;Australien;222
+Karratha;Australien;222
+Broadwood;Australien;222
+Parkes;Australien;222
+Kununurra;Australien;222
+Port Lincoln;Australien;222
+Exmouth;Australien;222
+Port Macquarie;Australien;222
+Flying Fish Cove;Juleøen;222
+Roma;Australien;222
+Canberra;Australien;222
+Dubbo;Australien;222
+Denham;Australien;222
+Albion Park Rail;Australien;222
+Milikapiti;Australien;222
+Burnt Pine;Norfolkøen;222
+Tamworth;Australien;222
+Forest Hill;Australien;222
+Thargomindah;Australien;222
+Biloela;Australien;222
+Tennant Creek;Australien;222
+Windorah;Australien;222
+Whyalla;Australien;222
+Burnie;Australien;222
+Chengde;Kina;222
+Chifeng;Kina;222
+Qinhuangdao (Changli);Kina;222
+Erenhot;Kina;222
+Arxan;Kina;222
+Handan;Kina;222
+Holingol;Kina;222
+Linfen (Yaodu);Kina;222
+Lüliang;Kina;222
+Manzhouli;Kina;222
+Shuozhou;Kina;222
+Tongliao;Kina;222
+Ulanqab;Kina;222
+Wuhai;Kina;222
+Xilinhot;Kina;222
+Bayannur;Kina;222
+Zhangjiakou;Kina;222
+Zhalantun;Kina;222
+Beihai;Kina;222
+Baise (Tianyang);Kina;222
+Changde (Dingcheng);Kina;222
+Huaihua;Kina;222
+Chenzhou;Kina;222
+Foshan (Nanhai);Kina;222
+Hechi (Jinchengjiang);Kina;222
+Huizhou (Pingtan);Kina;222
+Yongzhou;Kina;222
+Shaoyang (Wugang);Kina;222
+Tangbu;Kina;222
+Yulin;Kina;222
+Yueyang (Yueyanglou);Kina;222
+Liuzhou (Liujiang);Kina;222
+Enshi (Enshi);Kina;222
+Jingzhou (Shashi);Kina;222
+Shennongjia (Hongping);Kina;222
+Shiyan (Maojian);Kina;222
+Xiangyang (Xiangzhou);Kina;222
+Xinyang;Kina;222
+Yichang (Xiaoting);Kina;222
+Qionghai (Basuo);Kina;222
+Hoemun-ri;Nordkorea;222
+Sŏndŏng-ni;Nordkorea;222
+Wonsan;Nordkorea;222
+Delingha;Kina;222
+Golog (Maqên);Kina;222
+Golmud;Kina;222
+Guyuan (Yuanzhou);Kina;222
+Mengnai;Kina;222
+Hanzhong (Chenggu);Kina;222
+Jinchang;Kina;222
+Longnan (Cheng);Kina;222
+Qingyang (Xifeng);Kina;222
+Tianshui (Maiji);Kina;222
+Gannan (Xiahe);Kina;222
+Yan'an (Baota);Kina;222
+Yushu (Batang);Kina;222
+Zhongwei (Shapotou);Kina;222
+Zhangye (Ganzhou);Kina;222
+Arvaikheer;Mongoliet;222
+Altai;Mongoliet;222
+Bayankhongor;Mongoliet;222
+Bulgan;Mongoliet;222
+Dalanzadgad;Mongoliet;222
+Khovd;Mongoliet;222
+Mörön;Mongoliet;222
+Ulaangom;Mongoliet;222
+Ölgii;Mongoliet;222
+Baoshan (Longyang);Kina;222
+Lincang (Cangyuan);Kina;222
+Dali (Xiaguan);Kina;222
+Diqing (Shangri-La);Kina;222
+Pu'er (Lancang);Kina;222
+Lincang;Kina;222
+Dehong (Mangshi);Kina;222
+Anqing;Kina;222
+Changzhou;Kina;222
+Dongying (Kenli);Kina;222
+Yingzhou, Fuyang;Kina;222
+Heze (Dingtao);Kina;222
+Jingdezhen;Kina;222
+Jining;Kina;222
+Quzhou (Kezheng);Kina;222
+Longyan (Liancheng);Kina;222
+Taizhou (Luqiao);Kina;222
+Linyi (Hedong);Kina;222
+Nantong (Tongzhou);Kina;222
+Rizhao (Donggang);Kina;222
+Sanming (Sha);Kina;222
+Shangrao (Hengfeng);Kina;222
+Wuhu;Kina;222
+Weifang (Kuiwen);Kina;222
+Weihai;Kina;222
+Wuyishan;Kina;222
+Xuzhou;Kina;222
+Yangzhou;Kina;222
+Yichun;Kina;222
+Shiquanhe;Kina;222
+Anshun (Xixiu);Kina;222
+Bangda;Kina;222
+Bijie;Kina;222
+Dazhou (Dachuan);Kina;222
+Garzê (Daocheng);Kina;222
+Guangyuan (Lizhou);Kina;222
+Ngawa (Songpan);Kina;222
+Garzê (Kangding);Kina;222
+Kaili  (Huangping);Kina;222
+Luzhou (Yunlong);Kina;222
+Zunyi;Kina;222
+Mianyang (Fucheng);Kina;222
+Liping;Kina;222
+Nyingchi (Mainling);Kina;222
+Liupanshui (Zhongshan);Kina;222
+Qianjiang;Kina;222
+Baoshan (Tengchong);Kina;222
+Tongren (Daxing);Kina;222
+Wulong;Kina;222
+Liangshan (Xichang);Kina;222
+Yibin (Cuiping);Kina;222
+Xingyi;Kina;222
+Panzhihua (Renhe);Kina;222
+Aksu (Onsu);Kina;222
+Altay;Kina;222
+Bole;Kina;222
+Qiemo;Kina;222
+Fuyun;Kina;222
+Hami;Kina;222
+Korla;Kina;222
+Burqin;Kina;222
+Xinyuan;Kina;222
+Ruoqiang Town;Kina;222
+Shache;Kina;222
+Turpan;Kina;222
+Hotan;Kina;222
+Ili (Yining / Ghulja);Kina;222
+Anshan;Kina;222
+Baicheng;Kina;222
+Baishan;Kina;222
+Shuangta, Chaoyang;Kina;222
+Dandong (Zhenxing);Kina;222
+Heihe;Kina;222
+Fuyuan;Kina;222
+Jiagedaqi;Kina;222
+Jiamusi;Kina;222
+Jiansanjiang;Kina;222
+Jixi;Kina;222
+Jinzhou (Linghai);Kina;222
+Mudanjiang;Kina;222
+Mohe;Kina;222
+Qian Gorlos Mongol Autonomous County;Kina;222
+Tonghua;Kina;222
+Yanji;Kina;222
+Yingkou (Laobian);Kina;222
+Key Largo;USA;27
+Queen Maud Island;Antarktis;27
+Zabrat;Aserbajdsjan;27
+Benguera Island;Mozambique;27
+Bezmer;Bulgarien;27
+Bildudalur;Island;27
+Húsavík;Island;27
+Myvatn;Island;27
+Siglufjörður;Island;27
+Vestmannaeyjar;Island;27
+Betong;Thailand;27
+Orsha;Hviderusland;27
+Sartaneja;Belize;27
+Bazaruto Island;Mozambique;27
+Cache Creek;Canada;27
+Hainan (Gonghe);Kina;27
+Wuhan (Hannan);Kina;27
+Burang Town;Kina;27
+Zhaotong;Kina;27
+La Grande-4;Canada;27
+Cornwall;Canada;27
+Huron Park;Canada;27
+Miramichi;Canada;27
+Cochrane;Canada;27
+Chetwynd;Canada;27
+Burwash Landing;Canada;27
+Ross River;Canada;27
+Dolbeau-Saint-Felicien;Canada;27
+Dawson Creek;Canada;27
+Elliot Lake;Canada;27
+Sheguiandah;Canada;27
+Estevan;Canada;27
+Edson;Canada;27
+Amos;Canada;27
+Forestville;Canada;27
+La Macaza;Canada;27
+Fort Resolution;Canada;27
+Gimli;Canada;27
+Geraldton;Canada;27
+Dryden;Canada;27
+Hearst;Canada;27
+Hornepayne;Canada;27
+Haines Junction;Canada;27
+Atikokan;Canada;27
+Digby;Canada;27
+Fort Liard;Canada;27
+St Jean;Canada;27
+Key Lake;Canada;27
+Kincardine;Canada;27
+Kirkland Lake;Canada;27
+Kindersley;Canada;27
+Chapleau;Canada;27
+Meadow Lake;Canada;27
+Leaf Rapids;Canada;27
+Alert;Canada;27
+Mayo;Canada;27
+Matane;Canada;27
+Manitouwadge;Canada;27
+Moose Jaw;Canada;27
+Charlevoix;Canada;27
+Langley;Canada;27
+Matagami;Canada;27
+Ekati;Canada;27
+Cold Lake;Canada;27
+Oshawa;Canada;27
+Rainbow Lake;Canada;27
+Owen Sound;Canada;27
+Port Hawkesbury;Canada;27
+Portage la Prairie;Canada;27
+Springbrook;Canada;27
+Yarmouth;Canada;27
+St Thomas;Canada;27
+Yorkton;Canada;27
+North Battleford;Canada;27
+Rivière-du-Loup;Canada;27
+Trois-Rivières;Canada;27
+Revelstoke;Canada;27
+Sherbrooke;Canada;27
+Smiths Falls;Canada;27
+Marathon;Canada;27
+Slemon Park;Canada;27
+Pembroke;Canada;27
+Alma;Canada;27
+Trenton;Canada;27
+Vernon;Canada;27
+Wrigley;Canada;27
+Beaver Creek;Canada;27
+Earlton;Canada;27
+Wawa;Canada;27
+Swift Current;Canada;27
+Kapuskasing;Canada;27
+Armstrong;Canada;27
+Gore Bay;Canada;27
+Slave Lake;Canada;27
+Sarnia;Canada;27
+Teslin;Canada;27
+Greenwood;Canada;27
+Salmon Arm;Canada;27
+Delta;Canada;27
+Bromont;Canada;27
+Kelsey;Canada;27
+Jenpeg;Canada;27
+Swan River;Canada;27
+Thicket Portage;Canada;27
+Pikwitonei;Canada;27
+Pincher Creek;Canada;27
+Stewart;Canada;27
+Ignace;Canada;27
+Ouled Sidi Brahim;Algeriet;27
+Mecheria;Algeriet;27
+Hassi R'Mel;Algeriet;27
+Tiaret;Algeriet;27
+Tafraoui;Algeriet;27
+Ghriss;Algeriet;27
+Laghouat;Algeriet;27
+Minna;Nigeria;27
+Zaria;Nigeria;27
+Maradi;Niger;27
+Tahoua;Niger;27
+Agadez;Niger;27
+El Borma;Tunesien;27
+Wevelgem;Belgien;27
+Nobitz;Tyskland;27
+Trollenhagen;Tyskland;27
+Hörselberg-Hainich;Tyskland;27
+Burbach;Tyskland;27
+Kiel;Tyskland;27
+Bielefeld;Tyskland;27
+Mönchengladbach;Tyskland;27
+Augsburg;Tyskland;27
+Weßling;Tyskland;27
+Bindlach;Tyskland;27
+Hof;Tyskland;27
+Lahr/Schwarzwald;Tyskland;27
+Braunschweig;Tyskland;27
+Jämsä;Finland;27
+Kitee;Finland;27
+Kauhava;Finland;27
+Kauhajoki;Finland;27
+Mikkeli;Finland;27
+Seinäjoki / Ilmajoki;Finland;27
+Sodankyla;Finland;27
+Utti / Valkeala;Finland;27
+Varkaus / Joroinen;Finland;27
+Ylivieska;Finland;27
+Enniskillen, Fermanagh and Omagh;Storbritannien;27
+Coventry, West Midlands;Storbritannien;27
+Staverton, Gloucestershire;Storbritannien;27
+Nottingham, Nottinghamshire;Storbritannien;27
+Yeovil, Somerset;Storbritannien;27
+Haverfordwest;Storbritannien;27
+Swansea;Storbritannien;27
+Brighton, East Sussex;Storbritannien;27
+Farnborough, Hampshire;Storbritannien;27
+Camberley, Surrey;Storbritannien;27
+Romney Marsh, Kent;Storbritannien;27
+Carlisle, Cumbria;Storbritannien;27
+Blackpool;Storbritannien;27
+Barrow-in-Furness;Storbritannien;27
+Warton;Storbritannien;27
+Broughton;Storbritannien;27
+Angelsey;Storbritannien;27
+Leuchars, Fife;Storbritannien;27
+Lossiemouth, Moray;Storbritannien;27
+Cambridge, Cambridgeshire;Storbritannien;27
+Kidlington, Oxfordshire;Storbritannien;27
+Wallingford, Oxfordshire;Storbritannien;27
+Brandon, Suffolk;Storbritannien;27
+Bury Saint Edmunds, Suffolk;Storbritannien;27
+Fairford, Gloucestershire;Storbritannien;27
+Carterton, Oxfordshire;Storbritannien;27
+Hook, Hampshire;Storbritannien;27
+Northolt, Greater London;Storbritannien;27
+Lincoln, Lincolnshire;Storbritannien;27
+King's Lynn, Norfolk;Storbritannien;27
+Rijen;Holland;27
+Den Helder;Holland;27
+Lelystad;Holland;27
+Leeuwarden;Holland;27
+Enschede;Holland;27
+Uden;Holland;27
+Hoogerheide;Holland;27
+Sligo;Irland;27
+Waterford;Irland;27
+Rødby;Danmark;27
+Sindal;Danmark;27
+Vojens;Danmark;27
+Skive;Danmark;27
+Thisted;Danmark;27
+Skjern;Danmark;27
+Notodden;Norge;27
+Skövde;Sverige;27
+Karlskoga;Sverige;27
+Kristianstad;Sverige;27
+Söderhamn;Sverige;27
+Gävle / Sandviken;Sverige;27
+Eskilstuna;Sverige;27
+Storuman;Sverige;27
+Trier;Tyskland;27
+Ramstein-Miesenbach;Tyskland;27
+Fritzlar;Tyskland;27
+Geilenkirchen;Tyskland;27
+Jagel;Tyskland;27
+Wiesbaden;Tyskland;27
+Manching;Tyskland;27
+Panevėžys;Litauen;27
+Šiauliai;Litauen;27
+Alexander Bay;Sydafrika;27
+Aggeneys;Sydafrika;27
+Bisho;Sydafrika;27
+Ficksburg;Sydafrika;27
+Midrand;Sydafrika;27
+Harrismith;Sydafrika;27
+Klerksdorp;Sydafrika;27
+Kuruman;Sydafrika;27
+Kleinsee;Sydafrika;27
+Lime Acres;Sydafrika;27
+Langebaanweg;Sydafrika;27
+Ladysmith;Sydafrika;27
+Malamala;Sydafrika;27
+Newcastle;Sydafrika;27
+Oudtshoorn;Sydafrika;27
+Plettenberg Bay;Sydafrika;27
+Port St Johns;Sydafrika;27
+Pilanesberg;Sydafrika;27
+Potchefstroom;Sydafrika;27
+Robertson;Sydafrika;27
+Springbok;Sydafrika;27
+Secunda;Sydafrika;27
+Tzaneen;Sydafrika;27
+Ulundi;Sydafrika;27
+Vyrburg;Sydafrika;27
+Vredendal;Sydafrika;27
+Pretoria;Sydafrika;27
+Jwaneng;Botswana;27
+Sowa;Botswana;27
+Selebi Phikwe;Botswana;27
+Oyo;Congo;27
+Owando;Congo;27
+Dolisie;Congo;27
+Manzini;Eswatini;27
+Berbérati;Den Centralafrikanske Republik;27
+Diego Garcia;Britisk Territorium i Det Indiske Ocean;27
+Tiko;Cameroun;27
+Foumban;Cameroun;27
+Bafoussam;Cameroun;27
+Bamenda;Cameroun;27
+Chingola;Zambia;27
+Mongu;Zambia;27
+Kitwe;Zambia;27
+Fomboni;Comorerne;27
+Miandrivazo;Madagaskar;27
+Mananara Nord;Madagaskar;27
+Antsirabe;Madagaskar;27
+Analalava;Madagaskar;27
+Vohemar;Madagaskar;27
+Antsohihy;Madagaskar;27
+Fianarantsoa;Madagaskar;27
+Manakara;Madagaskar;27
+Morombe;Madagaskar;27
+Benguela;Angola;27
+Kuito;Angola;27
+Port Amboim;Angola;27
+Saurimo;Angola;27
+Sumbe;Angola;27
+Luena;Angola;27
+Uige;Angola;27
+Xangongo;Angola;27
+Koulamoutou;Gabon;27
+Mouila;Gabon;27
+Okondja;Gabon;27
+Lambarene;Gabon;27
+Bitam;Gabon;27
+Omboue;Gabon;27
+Mueda;Mozambique;27
+Mocímboa da Praia;Mozambique;27
+Moundou;Tchad;27
+Faya-Largeau;Tchad;27
+Chiredzi;Zimbabwe;27
+Masvingo;Zimbabwe;27
+Gweru;Zimbabwe;27
+Gwayi River Farms;Zimbabwe;27
+Dwangwa;Malawi;27
+Karonga;Malawi;27
+Mzuzu;Malawi;27
+Arandis;Namibia;27
+Grootfontein;Namibia;27
+Keetmanshoop;Namibia;27
+Tsumeb;Namibia;27
+N'dolo;DR Congo;27
+Lisala;DR Congo;27
+Buta;DR Congo;27
+Kamakombe;DR Congo;27
+Bo;Sierra Leone;27
+Kenema;Sierra Leone;27
+Yengema;Sierra Leone;27
+Bouarfa;Marokko;27
+Meknes;Marokko;27
+Kenitra;Marokko;27
+Al Hoceima;Marokko;27
+Kaolack;Senegal;27
+Ouro Sogui;Senegal;27
+Saint Louis;Senegal;27
+Bakel;Senegal;27
+Kédougou;Senegal;27
+Tambacounda;Senegal;27
+Atar;Mauretanien;27
+Debre Zeyit;Etiopien;27
+Kismayo;Somalia;27
+El Hassana;Egypten;27
+El Jora;Egypten;27
+Saint Catherine;Egypten;27
+Massawa;Eritrea;27
+Assab;Eritrea;27
+Kitale;Kenya;27
+Lokichogio;Kenya;27
+Lodwar;Kenya;27
+Nakuru;Kenya;27
+Marsa al Brega;Libyen;27
+Gisenyi;Rwanda;27
+Merowe;Sudan;27
+Nduli;Tanzania;27
+Lake Manyara National Park;Tanzania;27
+Chake Chake;Tanzania;27
+Chengdu (Jintang);Kina;27
+Shimoga;Indien;27
+Mesquite;USA;27
+Ada;USA;27
+Camp Springs;USA;27
+Alice;USA;27
+Alamogordo;USA;27
+Alton/St Louis;USA;27
+Anniston;USA;27
+Anderson;USA;27
+New Iberia;USA;27
+Astoria;USA;27
+Wausau;USA;27
+Beale Air Force Base;USA;27
+Bossier City;USA;27
+Westfield;USA;27
+Brady;USA;27
+Bryce Canyon;USA;27
+Boca Raton;USA;27
+Baudette;USA;27
+Fort Bliss/El Paso;USA;27
+Biloxi;USA;27
+Bemidji;USA;27
+Baker City;USA;27
+Aurora;USA;27
+Bluefield;USA;27
+Blythe;USA;27
+Bloomington;USA;27
+Burns;USA;27
+Big Piney;USA;27
+Mountain Home;USA;27
+Battle Creek;USA;27
+Beaver Falls;USA;27
+Beverly / Danvers;USA;27
+Bowling Green;USA;27
+Blytheville;USA;27
+Burley;USA;27
+Fort Irwin/Barstow;USA;27
+Caribou;USA;27
+Charles City;USA;27
+Childress;USA;27
+Chicopee;USA;27
+Crestview;USA;27
+Port Angeles;USA;27
+Chanute;USA;27
+Coeur d'Alene;USA;27
+Cocoa Beach;USA;27
+North Myrtle Beach;USA;27
+Crossville;USA;27
+Cut Bank;USA;27
+Corvallis;USA;27
+Carson City;USA;27
+Fort Belvoir;USA;27
+Daggett;USA;27
+Danville;USA;27
+Dalhart;USA;27
+Del Rio;USA;27
+Dallesport / The Dalles;USA;27
+Deming;USA;27
+Chicago/West Chicago;USA;27
+Mercury;USA;27
+DeRidder;USA;27
+Durant;USA;27
+Douglas Bisbee;USA;27
+Danbury;USA;27
+Elizabeth City;USA;27
+Edwards;USA;27
+Needles;USA;27
+Keene;USA;27
+Eureka;USA;27
+Elkins;USA;27
+Ely;USA;27
+Enid;USA;27
+Wendover;USA;27
+Kenosha;USA;27
+Evanston;USA;27
+Newport News (Fort Eustis);USA;27
+Fort Bragg;USA;27
+Fort Carson;USA;27
+Findlay;USA;27
+Fort Huachuca / Sierra Vista;USA;27
+Franklin;USA;27
+Fort Meade(Odenton);USA;27
+Farmington;USA;27
+Loveland;USA;27
+Topeka;USA;27
+Fort Pierce;USA;27
+East Farmingdale;USA;27
+Fort Riley (Junction City);USA;27
+Fort Sill;USA;27
+Fort Stockton;USA;27
+Fort Knox;USA;27
+Glens Falls;USA;27
+Goodland;USA;27
+Galveston;USA;27
+Groton;USA;27
+Fort Lewis/Tacoma;USA;27
+Goldsboro;USA;27
+Peru;USA;27
+Guymon;USA;27
+Denison;USA;27
+Hattiesburg;USA;27
+Hobart;USA;27
+Manassas;USA;27
+Hickory;USA;27
+Wheeling;USA;27
+Huron;USA;27
+Fort Campbell;USA;27
+Hoquiam;USA;27
+Homestead;USA;27
+Redstone Arsnl Huntsville;USA;27
+Terre Haute;USA;27
+Houlton;USA;27
+Hutchinson;USA;27
+Hollywood;USA;27
+Hayward;USA;27
+Ashtabula;USA;27
+Bullhead City;USA;27
+Kingman;USA;27
+Kankakee;USA;27
+Wink;USA;27
+Winston Salem;USA;27
+Winslow;USA;27
+Kinston;USA;27
+Junction;USA;27
+Kelso;USA;27
+Lamar;USA;27
+Lumberton;USA;27
+Angleton;USA;27
+Leesburg;USA;27
+Hampton;USA;27
+Lufkin;USA;27
+Logan;USA;27
+Klamath Falls;USA;27
+Lander;USA;27
+Lovelock;USA;27
+Fort Benning;USA;27
+Altus;USA;27
+Glendale;USA;27
+Livingston;USA;27
+Lawrence;USA;27
+Lewistown;USA;27
+Mobridge;USA;27
+McComb;USA;27
+Murphysboro;USA;27
+Mansfield;USA;27
+Marietta;USA;27
+Mojave;USA;27
+Muncie;USA;27
+Millville;USA;27
+Mc Alester;USA;27
+Miles City;USA;27
+Eastover;USA;27
+Morristown;USA;27
+Modesto;USA;27
+Barre/Montpelier;USA;27
+Smyrna;USA;27
+Martinsburg;USA;27
+Mount Clemens;USA;27
+Fort Indiantown Gap(Annville);USA;27
+Moses Lake;USA;27
+Marysville;USA;27
+Lakehurst;USA;27
+Fallon;USA;27
+Patuxent River;USA;27
+El Centro;USA;27
+Lemoore;USA;27
+Millington;USA;27
+Kingsville;USA;27
+Milton;USA;27
+Point Mugu;USA;27
+Virginia Beach;USA;27
+Mountain View;USA;27
+Oak Harbor;USA;27
+Quantico;USA;27
+Orangeburg;USA;27
+Oceanside;USA;27
+Nogales;USA;27
+Oregon;USA;27
+North Kingstown;USA;27
+Oshkosh;USA;27
+Ottumwa;USA;27
+Norwood;USA;27
+Oxnard;USA;27
+Fort Rucker/Ozark;USA;27
+Panama City;USA;27
+Palo Alto;USA;27
+Pine Bluff;USA;27
+Palmdale;USA;27
+Pinedale;USA;27
+Ponca City;USA;27
+Fort Polk;USA;27
+Poughkeepsie;USA;27
+Paso Robles;USA;27
+Pontiac;USA;27
+Chicago/Prospect Heights/Wheeling;USA;27
+Bremerton;USA;27
+Riverside;USA;27
+Red Bluff;USA;27
+Reading;USA;27
+Rifle;USA;27
+Universal City;USA;27
+New Richmond;USA;27
+Russell;USA;27
+Redwood Falls;USA;27
+Rocky Mount;USA;27
+Rawlins;USA;27
+Schenectady;USA;27
+Somerset;USA;27
+Santa Monica;USA;27
+Salinas;USA;27
+Alto;USA;27
+Sumter;USA;27
+St Simons Island;USA;27
+St Joseph;USA;27
+Saint Paul;USA;27
+Fairfield;USA;27
+Knob Noster;USA;27
+Tucumcari;USA;27
+Tuscaloosa;USA;27
+Truth or Consequences;USA;27
+Titusville;USA;27
+Troy;USA;27
+Tonopah;USA;27
+Temple;USA;27
+South Lake Tahoe;USA;27
+Ukiah;USA;27
+Oxford;USA;27
+Lompoc;USA;27
+Visalia;USA;27
+Van Nuys;USA;27
+Camp Douglas;USA;27
+Valentine;USA;27
+Winnemucca;USA;27
+Warner Robins;USA;27
+Wrightstown;USA;27
+Worland;USA;27
+Wildwood;USA;27
+Woodward;USA;27
+Kiwayu;Kenya;27
+Yankton;USA;27
+Youngstown/Warren;USA;27
+Zanesville;USA;27
+Kukës;Albanien;27
+Gorna Oryahovitsa;Bulgarien;27
+Akrotiri;Cypern;27
+Albacete;Spanien;27
+Córdoba;Spanien;27
+Burgos;Spanien;27
+Logroño;Spanien;27
+Morón;Spanien;27
+Ciudad Real;Spanien;27
+Rota;Spanien;27
+Teruel;Spanien;27
+Calais;Frankrig;27
+Le Touquet-Paris-Plage;Frankrig;27
+Agen;Frankrig;27
+Cognac/Châteaubernard;Frankrig;27
+Lépaud, Creuse;Frankrig;27
+Niort/Souché;Frankrig;27
+Angoulême;Frankrig;27
+Périgueux/Bassillac;Frankrig;27
+Cahors;Frankrig;27
+Albi;Frankrig;27
+Royan/Médis;Frankrig;27
+Rochefort/Saint-Agnant;Frankrig;27
+Colmar;Frankrig;27
+Lanas, Ardèche;Frankrig;27
+Angers;Frankrig;27
+Solenzara;Frankrig;27
+Auxerre;Frankrig;27
+Bourges;Frankrig;27
+L'Hôpital-le-Mercier, Saône-et-Loire;Frankrig;27
+Saint-Léger-sur-Roanne;Frankrig;27
+Chabeuil, Drôme;Frankrig;27
+Charmeil, Allier;Frankrig;27
+Châteauroux;Frankrig;27
+Chassieu, Lyon;Frankrig;27
+Cannes;Frankrig;27
+Andrézieux-Bouthéon, Loire;Frankrig;27
+Le Castellet, Var;Frankrig;27
+Mende/Brénoux;Frankrig;27
+Fauville, Eure;Frankrig;27
+Le Havre;Frankrig;27
+Boos;Frankrig;27
+Laval, Mayenne;Frankrig;27
+Creil;Frankrig;27
+Toussus-le-Noble, Yvelines;Frankrig;27
+Cormeilles-en-Vexin, Val-d'Oise;Frankrig;27
+Vélizy-Villacoublay, Yvelines;Frankrig;27
+Marzy, Nièvre;Frankrig;27
+Merville, Nord;Frankrig;27
+Cherbourg;Frankrig;27
+La Baule-Escoublac;Frankrig;27
+Bréville-sur-Mer, Manche;Frankrig;27
+La Roche-sur-Yon;Frankrig;27
+Landivisiau;Frankrig;27
+Lannion;Frankrig;27
+Quimper/Pluguffan;Frankrig;27
+Trémuson, Côtes-d'Armor;Frankrig;27
+Morlaix/Ploujean;Frankrig;27
+Vannes/Meucon;Frankrig;27
+Épinal;Frankrig;27
+Tomblaine, Meurthe-et-Moselle;Frankrig;27
+Andravida;Grækenland;27
+Grottaglie;Italien;27
+Galatina (LE);Italien;27
+Decimomannu;Italien;27
+Saint-Christophe (AO);Italien;27
+Aviano (PN);Italien;27
+Grosseto (GR);Italien;27
+Sečovlje;Slovenien;27
+Uherské Hradiště;Tjekkiet;27
+Přerov;Tjekkiet;27
+Vodochody;Tjekkiet;27
+Rosh Pina;Israel;27
+Masada;Israel;27
+Beersheba;Israel;27
+Beja;Portugal;27
+Caransebeş;Rumænien;27
+Mihail Kogălniceanu;Rumænien;27
+Sion;Schweiz;27
+Emmen;Schweiz;27
+Payerne;Schweiz;27
+Samedan;Schweiz;27
+Sarıçam;Tyrkiet;27
+Afyonkarahisar;Tyrkiet;27
+Kastamonu;Tyrkiet;27
+Bandırma;Tyrkiet;27
+Çiğli;Tyrkiet;27
+Uşak;Tyrkiet;27
+Kartepe;Tyrkiet;27
+Siirt;Tyrkiet;27
+Bălți;Moldova;27
+Brak;Libyen;27
+Zemun;Serbien;27
+Stapari;Serbien;27
+Piešťany;Slovakiet;27
+Dolný Hričov;Slovakiet;27
+Cabo Rojo;Den Dominikanske Republik;27
+Coban;Guatemala;27
+Rubelsanto;Guatemala;27
+Puerto San José;Guatemala;27
+Tela;Honduras;27
+Ken Jones;Jamaica;27
+Temixco;Mexico;27
+Ciudad Acuña;Mexico;27
+Celaya;Mexico;27
+Ensenada;Mexico;27
+Emiliano Zapata;Mexico;27
+Lázaro Cárdenas;Mexico;27
+Monclova;Mexico;27
+Pococi;Costa Rica;27
+Corredores;Costa Rica;27
+Los Chiles;Costa Rica;27
+Palmar Sur;Costa Rica;27
+Upala;Costa Rica;27
+Jacmel;Haiti;27
+Port-de-Paix;Haiti;27
+Ciro Redondo;Cuba;27
+Guantanamo Bay Naval Station;Cuba;27
+Guantánamo;Cuba;27
+Moa;Cuba;27
+Sandino;Cuba;27
+Isla de la Juventud;Cuba;27
+Blossom Village;Caymanøerne;27
+Mangrove Cay;Bahamas;27
+Bullocks Harbour;Bahamas;27
+Normans Cay;Bahamas;27
+Staniel Cay;Bahamas;27
+Duncan Town;Bahamas;27
+Reao;Fransk Polynesien;27
+Gaua Island;Vanuatu;27
+Manurewa;New Zealand;27
+Glentanner Station;New Zealand;27
+Alexandra;New Zealand;27
+Masterton;New Zealand;27
+Twitzel;New Zealand;27
+Wairoa;New Zealand;27
+Bagram;Afghanistan;27
+Jalalabad;Afghanistan;27
+Kunduz;Afghanistan;27
+Khamis Mushait;Saudi-Arabien;27
+Al Kharj;Saudi-Arabien;27
+Omidiyeh;Iran;27
+Masjed Soleyman;Iran;27
+Jam;Iran;27
+Siri;Iran;27
+Lavan Airport;Iran;27
+Ilam;Iran;27
+Shahrekord;Iran;27
+Amirabad;Iran;27
+Qazvin;Iran;27
+Jiroft;Iran;27
+Sirjan;Iran;27
+Sarakhs;Iran;27
+Tabas;Iran;27
+Gorgan;Iran;27
+Fasa;Iran;27
+Yasuj;Iran;27
+Showt;Iran;27
+Zanjan;Iran;27
+Zabol;Iran;27
+Iranshahr;Iran;27
+Ahmed Al Jaber AB;Kuwait;27
+Al Masna'ah;Oman;27
+Sir Bani Yas;De Forenede Arabiske Emirater;27
+Masirah;Oman;27
+Thumrait;Oman;27
+Dera Ismael Khan;Pakistan;27
+Jacobabad;Pakistan;27
+Mangla;Pakistan;27
+Mianwali;Pakistan;27
+Moenjodaro;Pakistan;27
+Kamra;Pakistan;27
+Panjgur;Pakistan;27
+Pasni;Pakistan;27
+Rawalakot;Pakistan;27
+Sehwan Sharif;Pakistan;27
+Sargodha;Pakistan;27
+Saidu Sharif;Pakistan;27
+Sui;Pakistan;27
+Hīt;Irak;27
+Al Habbaniyah;Irak;27
+Qayyarah;Irak;27
+Nasiriyah;Irak;27
+Deir ez-Zor;Syrien;27
+Tadmur;Syrien;27
+Ar Rayyan;Qatar;27
+Ataq;Yemen;27
+Palmer;USA;27
+Delta Junction Ft Greely;USA;27
+Cape Romanzof;USA;27
+Cape Newenham;USA;27
+Nenana;USA;27
+Metlakatla;USA;27
+Port Clarence;USA;27
+Sparrevohn;USA;27
+Soldotna;USA;27
+Shemya;USA;27
+Talkeetna;USA;27
+Takotna;USA;27
+Seward;USA;27
+Wasilla;USA;27
+Abariringa;Kiribati;27
+Yigo;Guam;27
+Kekaha;USA;27
+Kapolei;USA;27
+Kaneohe;USA;27
+Sand Island;USA's mindre øer;27
+Hengchun;Taiwan;27
+Hsinchu City;Taiwan;27
+Ogasawara;Japan;27
+Fukui;Japan;27
+Gifu;Japan;27
+Hachinohe;Japan;27
+Ayase / Yamato;Japan;27
+Fussa;Japan;27
+Gangneung;Sydkorea;27
+Jeju Island;Sydkorea;27
+Seongnam;Sydkorea;27
+Pyeongtaek;Sydkorea;27
+Suwon;Sydkorea;27
+Gimseang-ro;Sydkorea;27
+Yecheon-ri;Sydkorea;27
+Ie;Japan;27
+Lal-lo;Filippinerne;27
+Cavite;Filippinerne;27
+Lubang;Filippinerne;27
+Surallah;Filippinerne;27
+Bislig;Filippinerne;27
+Mati;Filippinerne;27
+Tandag;Filippinerne;27
+Daet;Filippinerne;27
+Mamburao;Filippinerne;27
+Baler;Filippinerne;27
+San Fernando;Filippinerne;27
+Gasan;Filippinerne;27
+Ormoc City;Filippinerne;27
+Krymsk;Rusland;27
+Smolensk;Rusland;27
+Concordia;Argentina;27
+Gualeguaychu;Argentina;27
+La Plata;Argentina;27
+El Palomar;Argentina;27
+Rincon de los Sauces;Argentina;27
+Zapala;Argentina;27
+Malargue;Argentina;27
+Rio Cuarto;Argentina;27
+Villa Dolores;Argentina;27
+Villa Mercedes;Argentina;27
+Paso de los Libres;Argentina;27
+Monte Caseros;Argentina;27
+Orán;Argentina;27
+Tartagal;Argentina;27
+Goya;Argentina;27
+Reconquista;Argentina;27
+Curuzu Cuatia;Argentina;27
+El Bolsón;Argentina;27
+San Julian;Argentina;27
+Puerto Santa Cruz;Argentina;27
+General Pico;Argentina;27
+Tres Arroyos;Argentina;27
+Pehuajó;Argentina;27
+Tandil;Argentina;27
+Villa Gesell;Argentina;27
+Cutral-Co;Argentina;27
+Conceição do Araguaia;Brasilien;27
+Aracati;Brasilien;27
+Bagé;Brasilien;27
+Barretos;Brasilien;27
+Barra do Garças;Brasilien;27
+Cabo Frio;Brasilien;27
+Carolina;Brasilien;27
+Caravelas;Brasilien;27
+Jacareacanga;Brasilien;27
+Guajará-Mirim;Brasilien;27
+Guaratinguetá;Brasilien;27
+Itacoatiara;Brasilien;27
+São Roque;Brasilien;27
+Lins;Brasilien;27
+Bom Jesus da Lapa;Brasilien;27
+Minaçu;Brasilien;27
+Almeirim;Brasilien;27
+Macaé;Brasilien;27
+Oiapoque;Brasilien;27
+Poços De Caldas;Brasilien;27
+Porto Nacional;Brasilien;27
+Guarujá;Brasilien;27
+Tarauacá;Brasilien;27
+Telêmaco Borba;Brasilien;27
+Varginha;Brasilien;27
+Tocopilla;Chile;27
+Chile Chico;Chile;27
+Chillan;Chile;27
+Coyhaique;Chile;27
+Porvenir;Chile;27
+Puerto Williams;Chile;27
+Vallenar;Chile;27
+Chañaral;Chile;27
+Talca;Chile;27
+Chaitén;Chile;27
+Taltal;Chile;27
+Viña del Mar;Chile;27
+Ambato;Ecuador;27
+Ahuano;Ecuador;27
+Macará;Ecuador;27
+Portoviejo;Ecuador;27
+Tarapoa;Ecuador;27
+Ayolas;Paraguay;27
+Concepción;Paraguay;27
+Mariscal Estigarribia;Paraguay;27
+Pilar;Paraguay;27
+Pedro Juan Caballero;Paraguay;27
+Apiay;Colombia;27
+El Banco;Colombia;27
+Caucasia;Colombia;27
+Coveñas;Colombia;27
+El Bagre;Colombia;27
+Girardot;Colombia;27
+Cartago;Colombia;27
+La Mina-Maicao;Colombia;27
+Magangué;Colombia;27
+Ocaña;Colombia;27
+Pitalito;Colombia;27
+La Dorada;Colombia;27
+Paz de Ariporo;Colombia;27
+Mariquita;Colombia;27
+Tres Esquinas;Colombia;27
+Tuluá;Colombia;27
+Bermejo;Bolivia;27
+Potosí;Bolivia;27
+Santa Ana del Yacuma;Bolivia;27
+Villamontes;Bolivia;27
+Yacuíba;Bolivia;27
+Correia Pinto;Brasilien;27
+Linhares;Brasilien;27
+Saint-Georges-de-l'Oyapock;Fransk Guyana;27
+Atalaya;Peru;27
+Iberia;Peru;27
+Anta;Peru;27
+Rioja;Peru;27
+Juanjuí;Peru;27
+Durazno;Uruguay;27
+Paysandú;Uruguay;27
+Salto;Uruguay;27
+Acarigua;Venezuela;27
+Anaco;Venezuela;27
+Maracay;Venezuela;27
+Ciudad Bolivar;Venezuela;27
+Guarico;Venezuela;27
+Bolivar;Venezuela;27
+Guasdualito;Venezuela;27
+Guanare;Venezuela;27
+Puerto Ayacucho;Venezuela;27
+Puerto Cabello;Venezuela;27
+San Cristóbal;Venezuela;27
+Palmarito;Venezuela;27
+San Felipe;Venezuela;27
+San Fernando de Apure;Venezuela;27
+San Carlos del Zulia;Venezuela;27
+Tucupita;Venezuela;27
+Arecibo;Puerto Rico;27
+Ekibastuz;Kasakhstan;27
+Zaqatala;Aserbajdsjan;27
+Magan;Rusland;27
+Belaya Gora;Rusland;27
+Sovetskaya Gavan;Rusland;27
+Chukotka;Rusland;27
+Evensk;Rusland;27
+Boryspil;Ukraine;27
+Berdyansk;Ukraine;27
+Sevastopol;Ukraine;27
+Kharkiv;Ukraine;27
+Cherkasy;Ukraine;27
+Khmelnytskyi;Ukraine;27
+Vinnitsa;Ukraine;27
+Arkhangelsk;Rusland;27
+Vologda;Rusland;27
+Vitebsk;Hviderusland;27
+Hrodna;Hviderusland;27
+Gorno-Altaysk;Rusland;27
+Baykit;Rusland;27
+Bor;Rusland;27
+Achinsk;Rusland;27
+Strezhevoy;Rusland;27
+Dikson;Rusland;27
+Svetlogorsk;Rusland;27
+Kaluga;Rusland;27
+Tver;Rusland;27
+Tambov;Rusland;27
+Inta;Rusland;27
+Ust-Tsylma;Rusland;27
+Yoshkar-Ola;Rusland;27
+Akola;Indien;27
+Daman;Indien;27
+Solapur;Indien;27
+Anuradhapura;Sri Lanka;27
+Ampara;Sri Lanka;27
+Polonnaruwa Town;Sri Lanka;27
+Ratanakiri;Cambodia;27
+Jamshedpur;Indien;27
+Kushinagar;Indien;27
+Kailashahar;Indien;27
+Muzaffarpur;Indien;27
+Rourkela;Indien;27
+Ziro;Indien;27
+Ishurdi;Bangladesh;27
+Bikaner;Indien;27
+Kota;Indien;27
+Puerto Vallemi;Paraguay;27
+Bellary;Indien;27
+Bidar;Indien;27
+IAF Camp;Indien;27
+Puttaparthi;Indien;27
+Gelephu;Bhutan;27
+Nakhon Pathom;Thailand;27
+Lop Buri;Thailand;27
+Takhli;Thailand;27
+Chaloem Phra Kiat;Thailand;27
+Namsang;Myanmar;27
+Nabire;Indonesien;27
+Serui;Indonesien;27
+Gotalalamo-Morotai Island;Indonesien;27
+Poso-Celebes Island;Indonesien;27
+Luwok;Indonesien;27
+Babo;Indonesien;27
+Rengat-Sumatra Island;Indonesien;27
+Padang Sidempuan;Indonesien;27
+Medan;Indonesien;27
+Lhok Sukon-Sumatra Island;Indonesien;27
+Butterworth;Malaysia;27
+Kerteh;Malaysia;27
+Paya Lebar;Singapore;27
+Western Water Catchment;Singapore;27
+Ararat;Australien;27
+Benalla;Australien;27
+Bairnsdale;Australien;27
+Wurrumiyanga;Australien;27
+Chinchilla;Australien;27
+Derby;Australien;27
+Deniliquin;Australien;27
+Forbes;Australien;27
+Grafton;Australien;27
+Glen Innes;Australien;27
+Pirlangimpi;Australien;27
+Inverell;Australien;27
+Morwell;Australien;27
+Mareeba;Australien;27
+Mudgee;Australien;27
+Roper River;Australien;27
+Orange;Australien;27
+Wadeye;Australien;27
+Cobbitty;Australien;27
+Nowra Hill;Australien;27
+Temora;Australien;27
+Tumut;Australien;27
+Taree;Australien;27
+Laceby;Australien;27
+Sale;Australien;27
+West Wyalong;Australien;27
+Xiangyang (Laohekou);Kina;27
+Xi'an (Baqiao);Kina;27
+Kalumbila;Zambia;27
+Chuxiong (Yuanmou);Kina;27
+Rugao (Nantong);Kina;27
+Suzhou;Kina;27
+Tongren;Kina;27
+Deyang (Guanghan);Kina;27
+Ngawa (Hongyuan);Kina;27
+Barkol;Kina;27
+Shanshan;Kina;27
+Huludao (Xingcheng);Kina;27
+Utirik Island;Marshalløerne;1
+Nunapitchuk;USA;1
+Blakely Island;USA;1
+Atmautluak;USA;1
+Pedro Bay;USA;1
+Ouzinkie;USA;1
+Tununak;USA;1
+Minto;USA;1
+Center Island;USA;1
+Tatitlek;USA;1
+Chuathbaluk;USA;1
+Tuntutuliak;USA;1
+Twin Hills;USA;1
+Chignik Lake;USA;1
+Auki;Salomonøerne;1
+Anua;Salomonøerne;1
+Choiseul Bay;Salomonøerne;1
+Ballalae;Salomonøerne;1
+Fera Island;Salomonøerne;1
+Kirakira;Salomonøerne;1
+Santa Cruz/Graciosa Bay/Luova;Salomonøerne;1
+Gizo;Salomonøerne;1
+Stirling Island;Salomonøerne;1
+Rennell Island;Salomonøerne;1
+Santa Ana Island;Salomonøerne;1
+Marau;Salomonøerne;1
+Suavanao;Salomonøerne;1
+Yandina;Salomonøerne;1
+Kagau Island;Salomonøerne;1
+Manaoba;Salomonøerne;1
+Gatokae;Salomonøerne;1
+Ramata;Salomonøerne;1
+Cosmo Newbery;Australien;1
+Bosset;Papua Ny Guinea;1
+Gasmata Island;Papua Ny Guinea;1
+Kieta;Papua Ny Guinea;1
+Losuia;Papua Ny Guinea;1
+Kiunga;Papua Ny Guinea;1
+Kikori;Papua Ny Guinea;1
+Londolovit;Papua Ny Guinea;1
+Moro;Papua Ny Guinea;1
+Misima Island;Papua Ny Guinea;1
+Obo;Papua Ny Guinea;1
+Sasereme;Papua Ny Guinea;1
+Tari;Papua Ny Guinea;1
+Tabubil;Papua Ny Guinea;1
+Tapini;Papua Ny Guinea;1
+Tufi;Papua Ny Guinea;1
+Maniitsoq;Grønland;1
+Paamiut;Grønland;1
+Upernavik;Grønland;1
+Uummannaq;Grønland;1
+Þórshöfn;Island;1
+Cajazeiras;Brasilien;1
+Big Creek;Belize;1
+Independence;Belize;1
+Orange Walk;Belize;1
+Trail;Canada;1
+Port McNeill;Canada;1
+Williams Harbour;Canada;1
+Postville;Canada;1
+Black Tickle;Canada;1
+St. Lewis;Canada;1
+Port Hope Simpson;Canada;1
+Rigolet;Canada;1
+Whatì;Canada;1
+Summer Beaver;Canada;1
+Crooked Creek;USA;1
+Angling Lake;Canada;1
+Wunnumin Lake;Canada;1
+North Spirit Lake;Canada;1
+Chicken;USA;1
+Zhaosu;Kina;1
+Hejing;Kina;1
+Qitai;Kina;1
+Bearskin Lake;Canada;1
+Natuashish;Canada;1
+Kingfisher Lake;Canada;1
+La Chorrera;Colombia;1
+Keewaywin;Canada;1
+Chisasibi;Canada;1
+Tête-à-la-Baleine;Canada;1
+Côte-Nord-du-Golfe-du-Saint-Laurent;Canada;1
+Le Golfe-du-Saint-Laurent;Canada;1
+La Tabatière;Canada;1
+Arctic Bay;Canada;1
+Cat Lake;Canada;1
+Alert Bay;Canada;1
+Kangirsuk;Canada;1
+Attawapiskat;Canada;1
+Kugaaruk;Canada;1
+Uranium City;Canada;1
+Tadoule Lake;Canada;1
+Brochet;Canada;1
+Berens River;Canada;1
+Cartwright;Canada;1
+Kugluktuk;Canada;1
+Cross Lake;Canada;1
+Chesterfield Inlet;Canada;1
+Clyde River;Canada;1
+Dease Lake;Canada;1
+Nain;Canada;1
+Arviat;Canada;1
+Fort Severn;Canada;1
+Fort Albany;Canada;1
+Fort Hope;Canada;1
+Flin Flon;Canada;1
+Makkovik;Canada;1
+Fort Good Hope;Canada;1
+Gods Lake Narrows;Canada;1
+Igloolik;Canada;1
+Gillam;Canada;1
+Grise Fiord;Canada;1
+Quaqtaq;Canada;1
+Nemiscau;Canada;1
+Ulukhaktok;Canada;1
+Gjoa Haven;Canada;1
+Hopedale;Canada;1
+Poplar Hill;Canada;1
+Chevery;Canada;1
+Ivujivik;Canada;1
+Pond Inlet;Canada;1
+Aklavik;Canada;1
+Kangiqsujuaq;Canada;1
+Akulivik;Canada;1
+Ogoki Post;Canada;1
+Waskaganish;Canada;1
+Aupaluk;Canada;1
+Kimmirut;Canada;1
+Lansdowne House;Canada;1
+Lutselk'e;Canada;1
+Kangiqsualujjuaq;Canada;1
+Mary's Harbour;Canada;1
+Umiujaq;Canada;1
+Wemindji;Canada;1
+Norway House;Canada;1
+Old Crow;Canada;1
+Oxford House;Canada;1
+Paulatuk;Canada;1
+Inukjuak;Canada;1
+Pikangikum;Canada;1
+Peawanuck;Canada;1
+Gamètì;Canada;1
+Red Sucker Lake;Canada;1
+Sanikiluaq;Canada;1
+St. Theresa Point;Canada;1
+Sachs Harbour;Canada;1
+Kinngait;Canada;1
+Big Trout Lake;Canada;1
+Tasiujaq;Canada;1
+Repulse Bay;Canada;1
+Colville Lake;Canada;1
+Qikiqtarjuaq;Canada;1
+Wekweètì;Canada;1
+Déline;Canada;1
+Webequie;Canada;1
+Whale Cove;Canada;1
+Pangnirtung;Canada;1
+Taloyoak;Canada;1
+Salluit;Canada;1
+Ilford;Canada;1
+Eastmain River;Canada;1
+Fond-du-Lac;Canada;1
+Pukatawagan;Canada;1
+Fort Mcpherson;Canada;1
+Tulita;Canada;1
+Gods River;Canada;1
+Kashechewan;Canada;1
+Muskrat Dam;Canada;1
+Sachigo Lake;Canada;1
+Round Lake;Canada;1
+South Indian Lake;Canada;1
+Bloodvein River;Canada;1
+Shamattawa;Canada;1
+Churchill Falls;Canada;1
+Lac Brochet;Canada;1
+Wollaston Lake;Canada;1
+Dekai;Indonesien;1
+Dalnerechensk;Rusland;1
+Deputatskiy;Rusland;1
+Emden;Tyskland;1
+Wangerooge;Tyskland;1
+Juist;Tyskland;1
+Borkum;Tyskland;1
+Norddeich;Tyskland;1
+Norderney;Tyskland;1
+Baltrum;Tyskland;1
+Oesterdeichstrich;Tyskland;1
+Helgoland;Tyskland;1
+Fair Isle;Storbritannien;1
+Coll Island;Storbritannien;1
+North Ronaldsay;Storbritannien;1
+North Connel;Storbritannien;1
+Papa Westray, Orkney Islands;Storbritannien;1
+Stronsay;Storbritannien;1
+Sanday;Storbritannien;1
+Lerwick, Shetland Islands;Storbritannien;1
+Westray, Orkney Islands;Storbritannien;1
+Colonsay;Storbritannien;1
+Land's End, Cornwall;Storbritannien;1
+St. Mary's, Isles of Scilly;Storbritannien;1
+Inverin;Irland;1
+Inis Mór;Irland;1
+Inis Oírr;Irland;1
+Inis Meáin;Irland;1
+Enejit Island;Marshalløerne;1
+Læsø;Danmark;1
+Førde;Norge;1
+Hasvik;Norge;1
+Namsos;Norge;1
+Røst;Norge;1
+Sandane;Norge;1
+Sogndal;Norge;1
+Sveg;Sverige;1
+Råda;Sverige;1
+Pajala;Sverige;1
+Hemavan;Sverige;1
+Shire Inda Selassie;Etiopien;1
+Shakawe;Botswana;1
+San Antonio de Palé;Ækvatorialguinea;1
+Kasama;Zambia;1
+Solwesi;Zambia;1
+Tambohorano;Madagaskar;1
+Soalala;Madagaskar;1
+Tsaratanana;Madagaskar;1
+Funadhoo;Maldiverne;1
+Xai-Xai;Mozambique;1
+Halali;Namibia;1
+Inongo;DR Congo;1
+Boende;DR Congo;1
+Kamina;DR Congo;1
+Ilebo;DR Congo;1
+Gamba;Gabon;1
+Foula;Storbritannien;1
+Alajero, La Gomera Island;Spanien;1
+Goodnews;USA;1
+São Filipe;Kap Verde;1
+Dessie;Etiopien;1
+Dembidollo;Etiopien;1
+Mizan Teferi;Etiopien;1
+Shilavo;Etiopien;1
+Semera;Etiopien;1
+Tippi;Etiopien;1
+Kirundo;Burundi;1
+Beledweyne;Somalia;1
+Galcaio;Somalia;1
+Garowe;Somalia;1
+Siwa Oasis;Egypten;1
+Meru-Kinna;Kenya;1
+Misrata;Libyen;1
+Adam;Libyen;1
+Bukoba;Tanzania;1
+Kigoma;Tanzania;1
+Kilindoni;Tanzania;1
+Musoma;Tanzania;1
+Seronera;Tanzania;1
+Shinyanga;Tanzania;1
+Tabora;Tanzania;1
+Singkil;Indonesien;1
+Sungai Penuh;Indonesien;1
+Sipura Island;Indonesien;1
+Jagdalpur;Indien;1
+Tiakur;Indonesien;1
+Chizhou;Kina;1
+Anacortes;USA;1
+Block Island;USA;1
+Nanwalek;USA;1
+Grayling;USA;1
+Ironwood;USA;1
+Manistee;USA;1
+Montauk;USA;1
+Martha's Vineyard;USA;1
+Ushant;Frankrig;1
+Île d'Yeu;Frankrig;1
+Chaspuzac, Haute-Loire;Frankrig;1
+Saint-Tropez;Frankrig;1
+Miquelon;Saint-Pierre og Miquelon;1
+Ikaria Island;Grækenland;1
+Argos Orestiko;Grækenland;1
+Kithira Island;Grækenland;1
+Kastelorizo Island;Grækenland;1
+Kasos Island;Grækenland;1
+Kalymnos Island;Grækenland;1
+Leros Island;Grækenland;1
+Limnos Island;Grækenland;1
+Milos Island;Grækenland;1
+Naxos;Grækenland;1
+Paros;Grækenland;1
+Astypalaia Island;Grækenland;1
+Syros Island;Grækenland;1
+Skiros Island;Grækenland;1
+Corvo;Portugal;1
+Amasya;Tyrkiet;1
+Sivas;Tyrkiet;1
+Altıntaş;Tyrkiet;1
+Bingöl;Tyrkiet;1
+Salt Cay;Turks- og Caicosøerne;1
+Huehuetenango;Guatemala;1
+Quezaltenango;Guatemala;1
+Ujae Atoll;Marshalløerne;1
+Aur Atoll;Marshalløerne;1
+Ailinglapalap Atoll;Marshalløerne;1
+Likiep Island;Marshalløerne;1
+Majkin;Marshalløerne;1
+Rongelap Island;Marshalløerne;1
+Jabor Jaluit Atoll;Marshalløerne;1
+Wotje;Marshalløerne;1
+Wotho Island;Marshalløerne;1
+Puerto Lempira;Honduras;1
+Utila Island;Honduras;1
+Mili Island;Marshalløerne;1
+Comondú;Mexico;1
+San Quintín;Mexico;1
+Puerto Peñasco;Mexico;1
+Corn Island;Nicaragua;1
+Morowali;Indonesien;1
+Panamá City;Panama;1
+Pedasí;Panama;1
+Río Hato;Panama;1
+Faresmaathodaa;Maldiverne;1
+Long Banga;Malaysia;1
+May Creek;USA;1
+Aitutaki;Cookøerne;1
+Atiu Island;Cookøerne;1
+Manihiki Island;Cookøerne;1
+Mauke Island;Cookøerne;1
+Mitiaro Island;Cookøerne;1
+Cicia;Fiji;1
+Malolo Lailai Island;Fiji;1
+Vunisea;Fiji;1
+Mana Island;Fiji;1
+Moala;Fiji;1
+Bureta;Fiji;1
+Ngau;Fiji;1
+Lakeba Island;Fiji;1
+Matei;Fiji;1
+Koro Island;Fiji;1
+Rotuma;Fiji;1
+Savusavu;Fiji;1
+Yasawa Island;Fiji;1
+Eua Island;Tonga;1
+Niuatoputapu;Tonga;1
+Vanua Balavu;Fiji;1
+Butaritari;Kiribati;1
+Buariki;Kiribati;1
+Futuna Island;Wallis og Futuna;1
+Ofu;Amerikansk Samoa;1
+Fitiuta Village;Amerikansk Samoa;1
+Rimatara Island;Fransk Polynesien;1
+Apataki;Fransk Polynesien;1
+Hikueru;Fransk Polynesien;1
+Napuka Island;Fransk Polynesien;1
+Tatakoto;Fransk Polynesien;1
+Kauehi;Fransk Polynesien;1
+Fakahina;Fransk Polynesien;1
+Naiu Atoll;Fransk Polynesien;1
+Raroia;Fransk Polynesien;1
+Ua Pou;Fransk Polynesien;1
+Ua Huka;Fransk Polynesien;1
+Sola;Vanuatu;1
+Craig Cove;Vanuatu;1
+Longana;Vanuatu;1
+Pentecost Island;Vanuatu;1
+Paama Island;Vanuatu;1
+Lamap;Vanuatu;1
+Lamen Bay;Vanuatu;1
+Lonorore;Vanuatu;1
+Norsup;Vanuatu;1
+Tongoa Island;Vanuatu;1
+Epi Island;Vanuatu;1
+Walaha;Vanuatu;1
+Olpoi;Vanuatu;1
+Waala;Ny Kaledonien;1
+Koumac;Ny Kaledonien;1
+Claris;New Zealand;1
+Koromiko;New Zealand;1
+Fayzabad;Afghanistan;1
+Semnan;Iran;1
+Parsabad;Iran;1
+Bandar-e-Jask;Iran;1
+Old Harbor;USA;1
+Delma Island;De Forenede Arabiske Emirater;1
+Dalbandin;Pakistan;1
+Khuzdar;Pakistan;1
+Muzaffarabad;Pakistan;1
+Port Lions;USA;1
+Puerto Piña;Panama;1
+Contadora Island;Panama;1
+Atka;USA;1
+Buckland;USA;1
+Bettles;USA;1
+Central;USA;1
+Chalkyitsik;USA;1
+Chefornak;USA;1
+Scammon Bay;USA;1
+Circle;USA;1
+Yakataga;USA;1
+Marshall;USA;1
+Kongiganak;USA;1
+Eek;USA;1
+Mertarvik;USA;1
+Nikolai;USA;1
+Kwigillingok;USA;1
+Shungnak;USA;1
+Golovin;USA;1
+Nightmute;USA;1
+Skagway;USA;1
+Hooper Bay;USA;1
+Hughes;USA;1
+Igiugig;USA;1
+Wales;USA;1
+Chignik;USA;1
+Koliganek;USA;1
+False Pass;USA;1
+Akhiok;USA;1
+Kipnuk;USA;1
+Koyuk;USA;1
+Nikolski;USA;1
+Kaltag;USA;1
+Karluk;USA;1
+Larsen Bay;USA;1
+Kalskag;USA;1
+Port Alsworth;USA;1
+Manokotak;USA;1
+Minchumina;USA;1
+St Michael;USA;1
+Manley Hot Springs;USA;1
+Mountain Village;USA;1
+Napakiak;USA;1
+Nulato;USA;1
+New Stuyahok;USA;1
+Kobuk;USA;1
+Hoonah;USA;1
+Toksook Bay;USA;1
+Nelson Lagoon;USA;1
+Perryville;USA;1
+Napaskiak;USA;1
+Pilot Point;USA;1
+Point Hope;USA;1
+Quinhagak;USA;1
+Russian Mission;USA;1
+Shishmaref;USA;1
+Selawik;USA;1
+Sleetmute;USA;1
+St Mary's;USA;1
+Seldovia;USA;1
+Tanana;USA;1
+Tin City;USA;1
+Teller;USA;1
+Togiak Village;USA;1
+Alakanuk;USA;1
+Akutan;USA;1
+Chevak;USA;1
+King Cove;USA;1
+Venetie;USA;1
+Kivalina;USA;1
+White Mountain;USA;1
+Noatak;USA;1
+Akiak;USA;1
+Allakaket;USA;1
+Chenega;USA;1
+Clarks Point;USA;1
+Elim;USA;1
+Kasigluk;USA;1
+Kokhanok;USA;1
+Kotlik;USA;1
+Brevig Mission;USA;1
+Koyukuk;USA;1
+Kwethluk;USA;1
+Noorvik;USA;1
+Shaktoolik;USA;1
+Tok;USA;1
+South Naknek;USA;1
+Lake Murray;Papua Ny Guinea;1
+Port Graham;USA;1
+Kalaupapa;USA;1
+Eniwetok Atoll;Marshalløerne;1
+Kili Island;Marshalløerne;1
+Red Devil;USA;1
+Badanjilin;Kina;1
+Rampart;USA;1
+Aguni;Japan;1
+El Nido;Filippinerne;1
+Cuyo;Filippinerne;1
+Del Carmen;Filippinerne;1
+San Vicente;Filippinerne;1
+Taksimo;Rusland;1
+Motygino;Rusland;1
+Lopez;USA;1
+San Antonio Oeste;Argentina;1
+Gobernador Gregores;Argentina;1
+Rio Turbio;Argentina;1
+Caldas Novas;Brasilien;1
+Bonito;Brasilien;1
+Guarapuava;Brasilien;1
+Jaguaruna;Brasilien;1
+Ji-Paraná;Brasilien;1
+Juazeiro do Norte;Brasilien;1
+Lençóis;Brasilien;1
+Pato Branco;Brasilien;1
+Barreirinhas;Brasilien;1
+Sorriso;Brasilien;1
+Una;Brasilien;1
+Três Lagoas;Brasilien;1
+Pucon;Chile;1
+Dalcahue;Chile;1
+Villa Las Estrellas;Antarktis;1
+Sorocaba;Brasilien;1
+Paraty;Brasilien;1
+Puerto Villamil;Ecuador;1
+Puerto Baquerizo Moreno;Ecuador;1
+La Toma (Catamayo);Ecuador;1
+Stanley;Falklandsøerne;1
+Maraú;Brasilien;1
+Puerto Leguízamo;Colombia;1
+La Pedrera;Colombia;1
+La Macarena;Colombia;1
+Nuquí;Colombia;1
+Tarapacá;Colombia;1
+Saravena;Colombia;1
+Santiago de Tolú;Colombia;1
+Chimore;Bolivia;1
+Puerto Rico/Manuripi;Bolivia;1
+Rurrenabaque;Bolivia;1
+Drietabbetje;Surinam;1
+Moengo;Surinam;1
+Wageningen;Surinam;1
+Barreiras;Brasilien;1
+Paragominas;Brasilien;1
+Guarapari;Brasilien;1
+Serra Talhada;Brasilien;1
+Caruaru;Brasilien;1
+Salinópolis;Brasilien;1
+Valença;Brasilien;1
+Breves;Brasilien;1
+Paracatu;Brasilien;1
+Andahuaylas;Peru;1
+Kwatta;Surinam;1
+Mulegé;Mexico;1
+Stony River;USA;1
+Canela;Brasilien;1
+Francisco Beltrão;Brasilien;1
+Guaíra;Brasilien;1
+Cacoal;Brasilien;1
+Umuarama;Brasilien;1
+União da Vitória;Brasilien;1
+Isla de Coche;Venezuela;1
+Gran Roque Island;Venezuela;1
+Stevens Village;USA;1
+Barcelos;Brasilien;1
+Pontes e Lacerda;Brasilien;1
+Borba;Brasilien;1
+Carauari;Brasilien;1
+Lábrea;Brasilien;1
+Santa Isabel do Rio Negro;Brasilien;1
+Tangará da Serra;Brasilien;1
+Nunam Iqua;USA;1
+Grande Anse;Guadeloupe;1
+Basse-Terre;Guadeloupe;1
+St-François;Guadeloupe;1
+Carriacou Island;Grenada;1
+Tuluksak;USA;1
+Tumxuk;Kina;1
+Usharal;Kasakhstan;1
+Zaysan;Kasakhstan;1
+Lankaran;Aserbajdsjan;1
+Batagay;Rusland;1
+Batagay-Alyta;Rusland;1
+Ust-Kuyga;Rusland;1
+Ust-Maya;Rusland;1
+Verkhnevilyuisk;Rusland;1
+Suntar;Rusland;1
+Kisoro;Uganda;1
+Markovo;Rusland;1
+Bogorodskoye;Rusland;1
+Kurilsk;Rusland;1
+Shakhtyorsk;Rusland;1
+Yuzhno-Kurilsk;Rusland;1
+Nogliki;Rusland;1
+Plastun;Rusland;1
+Bodaybo;Rusland;1
+Nizhneangarsk;Rusland;1
+Leshukonskoye;Rusland;1
+Solovetsky Islands;Rusland;1
+Tura;Rusland;1
+Turukhansk;Rusland;1
+Pilot Station;USA;1
+Karshi;Usbekistan;1
+Urzhar;Kasakhstan;1
+Diu;Indien;1
+Jalgaon;Indien;1
+Deoghar;Indien;1
+Aligarh;Indien;1
+Adampur;Indien;1
+Ghaziabad;Indien;1
+Shravasti;Indien;1
+Luang Namtha;Laos;1
+Oudomsay;Laos;1
+Xieng Khouang;Laos;1
+Bharatpur;Nepal;1
+Bhadrapur;Nepal;1
+Dolpa;Nepal;1
+Silgadi Doti;Nepal;1
+Jumla;Nepal;1
+Jomsom;Nepal;1
+Simara;Nepal;1
+Surkhet;Nepal;1
+Simikot;Nepal;1
+Tumling Tar;Nepal;1
+Kalaburagi;Indien;1
+Vagaikulam;Indien;1
+Jakar;Bhutan;1
+Yongphulla;Bhutan;1
+Kulhudhuffushi;Maldiverne;1
+Baa Atoll;Maldiverne;1
+Thimarafushi;Maldiverne;1
+Maavaarulu;Maldiverne;1
+Tam Nghĩa;Vietnam;1
+Thanh Hóa;Vietnam;1
+Nyaung U;Myanmar;1
+Banmaw;Myanmar;1
+Kanti;Myanmar;1
+Mawlamyine;Myanmar;1
+Magway;Myanmar;1
+Pathein;Myanmar;1
+Roche Harbor;USA;1
+Sumbawa Besar;Indonesien;1
+Radamata;Indonesien;1
+Waingapu-Sumba Island;Indonesien;1
+Rogojampi, Banyuwangi;Indonesien;1
+Palopo;Indonesien;1
+Toli Toli-Celebes Island;Indonesien;1
+Tojo Una-Una;Indonesien;1
+Muara Teweh;Indonesien;1
+Seruyan;Indonesien;1
+Karimunjawa;Indonesien;1
+Bokondini;Indonesien;1
+Tanjung Selor-Borneo Island;Indonesien;1
+Datadawai-Borneo Island;Indonesien;1
+Gorontalo;Indonesien;1
+Lolak;Indonesien;1
+Buol;Indonesien;1
+Batu Licin;Indonesien;1
+Pangkalanbun;Indonesien;1
+Stagen;Indonesien;1
+Sampit;Indonesien;1
+Tumbang Samba-Borneo Island;Indonesien;1
+Malinau;Indonesien;1
+Jember;Indonesien;1
+Waisai;Indonesien;1
+Atambua;Indonesien;1
+Waioti;Indonesien;1
+Ende;Indonesien;1
+Satar Tacik, Manggarai;Indonesien;1
+Tiwatobi;Indonesien;1
+Kabola;Indonesien;1
+Labuan Bajo, Manggarai Barat;Indonesien;1
+Ba'a - Rote Island;Indonesien;1
+Benteng;Indonesien;1
+Kendari;Indonesien;1
+Stebbins;USA;1
+Long Datih;Malaysia;1
+Long Seridan;Malaysia;1
+Bakalalan;Malaysia;1
+Lawas;Malaysia;1
+Tomanggong;Malaysia;1
+Kudat;Malaysia;1
+Cijulang;Indonesien;1
+Muko Muko;Indonesien;1
+Lhok Seumawe-Sumatra Island;Indonesien;1
+Siborong-Borong;Indonesien;1
+Tanjung Pandan;Indonesien;1
+Jambi;Indonesien;1
+Muara Bungo;Indonesien;1
+Pangkor Island;Malaysia;1
+Saumlaki-Yamdena Island;Indonesien;1
+Long Bawan;Indonesien;1
+Bontang-Borneo Island;Indonesien;1
+Long Apung-Borneo Island;Indonesien;1
+Aurukun;Australien;1
+Badu Island;Australien;1
+Busselton;Australien;1
+Boigu Island;Australien;1
+Christmas Creek Mine;Australien;1
+Darnley Island;Australien;1
+Whitemark;Australien;1
+Lajamanu;Australien;1
+Hughenden;Australien;1
+Karara;Australien;1
+Kalbarri;Australien;1
+Kubin Island;Australien;1
+Lord Howe Island;Australien;1
+Laverton;Australien;1
+Mabuiag Island;Australien;1
+Murray Island;Australien;1
+Milingimbi Island;Australien;1
+McArthur River Mine;Australien;1
+Bamaga;Australien;1
+Olympic Dam;Australien;1
+Mount Eba;Australien;1
+Pormpuraaw;Australien;1
+Saibai Island;Australien;1
+Sue Islet;Australien;1
+Yorke Island;Australien;1
+Yam Island;Australien;1
+Akiachak;USA;1
+Birch Creek;USA;1
+Changzhi;Kina;1
+Tangshan (Fengrun);Kina;1
+Ulanhot;Kina;1
+Xinzhou;Kina;1
+Hengyang;Kina;1
+Meizhou (Meixian);Kina;1
+Xiangxi;Kina;1
+Nanyang (Wancheng);Kina;1
+Anyang;Kina;1
+Ankang (Hanbin);Kina;1
+Haibei (Qilian);Kina;1
+Uliastai;Mongoliet;1
+Mandalgobi;Mongoliet;1
+Pu'er;Kina;1
+Wenshan;Kina;1
+Ganzhou;Kina;1
+Jiujiang;Kina;1
+Dazhou (Daxian);Kina;1
+Garzê (Garzê);Kina;1
+Qiannan (Libo);Kina;1
+Nanchong (Gaoping);Kina;1
+Shannan;Kina;1
+Wushan;Kina;1
+Wanzhou;Kina;1
+Aral;Kina;1
+Shihezi;Kina;1
+Kuqa;Kina;1
+Karamay;Kina;1
+Tacheng;Kina;1
+Hotan (Yutian);Kina;1
+Dalian (Changhai);Kina;1
+Daqing;Kina;1
+Köln;Allemagne;792
+Frankfurt;Allemagne;779
+Zürich;Suisse;842
+Bruxelles;Belgique;829
+Oslo;Norvège;812
+Helsinki;Finlande;805
+Lisbonne;Portugal;805
+Nizza;France;790
+Bali;Indonésie;760
+Marrakech;Maroc;792
+Reykjavik;Islande;821
+Mallorca;Espagne;805
+Rhodos;Grèce;782
+Kobenhavn;Danmark;900
+Lisboa;Portugal;700
+Genf;Schweiz;680
+Geneve;Schweiz;650
